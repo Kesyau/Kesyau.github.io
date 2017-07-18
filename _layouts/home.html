@@ -11,7 +11,9 @@ layout: default
       {% if post.category == 'bulletin' %}
         <li>
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <p><span class="post-meta">{{ post.date | date: date_format }}</span>{{ post }}</p>
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          
+          <p>{{ post }}</p>
         </li>
       {% endif %}
     {% endfor %}
