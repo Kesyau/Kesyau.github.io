@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>解决 Homebrew 安装 Ruby 2.4.1 的问题</title>
-  <meta name="description" content="用 Homebrew 安装 Ruby 2.4.1 后运行 gem，可能遇到如下问题： /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in `&amp;lt;top (required)&amp;gt;&#39;: It seems your ruby installati...">
+  <title>解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</title>
+  <meta name="description" content="问题">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">
@@ -65,7 +65,7 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">解决 Homebrew 安装 Ruby 2.4.1 的问题</h1>
+    <h1 class="post-title" itemprop="name headline">解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</h1>
     <p class="post-meta">
       <time datetime="2017-08-20T00:00:00+08:00" itemprop="datePublished">
         
@@ -75,39 +75,43 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>用 Homebrew 安装 Ruby 2.4.1 后运行 gem，可能遇到如下问题：</p>
+    <h2 id="问题">问题</h2>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in <span class="sb">`</span>&lt;top <span class="o">(</span>required<span class="o">)</span>&gt;<span class="s1">':
+<p>用 Homebrew 升级 Ruby 至 2.4.1 后运行 gem，可能遇到如下问题：</p>
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in `&lt;top (required)&gt;':
 It seems your ruby installation is missing psych (for YAML output).
 To eliminate this warning, please install libyaml and reinstall your ruby.
-/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'</span>: dlopen<span class="o">(</span>/usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle, 9<span class="o">)</span>: Library not loaded: /usr/local/opt/ruby/lib/libruby.2.4.0.dylib <span class="o">(</span>LoadError<span class="o">)</span>
+/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require': dlopen(/usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle, 9): Library not loaded: /usr/local/opt/ruby/lib/libruby.2.4.0.dylib (LoadError)
   Referenced from: /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle
   Reason: image not found - /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in <span class="sb">`</span>require<span class="s1">'
-	from /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.rb:8:in `&lt;top (required)&gt;'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in <span class="sb">`</span>require<span class="s1">'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:6:in <span class="sb">`</span>&lt;top <span class="o">(</span>required<span class="o">)</span>&gt;<span class="s1">'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in <span class="sb">`</span>require<span class="s1">'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems.rb:700:in `load_yaml'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:340:in <span class="sb">`</span>load_file<span class="s1">'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:202:in `initialize'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in <span class="sb">`</span>new<span class="s1">'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `do_configuration'</span>
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:40:in <span class="sb">`</span>run<span class="s1">'
-	from /usr/local/bin/gem:21:in `&lt;main&gt;'</span></code></pre></figure>
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.rb:8:in `&lt;top (required)&gt;'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:6:in `&lt;top (required)&gt;'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems.rb:700:in `load_yaml'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:340:in `load_file'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:202:in `initialize'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `new'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `do_configuration'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:40:in `run'
+	from /usr/local/bin/gem:21:in `&lt;main&gt;'</code></pre></figure>
 
-<p>根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby：</p>
+<h2 id="解决">解决</h2>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">rm -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
-rm -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
-brew reinstall ruby</code></pre></figure>
+<p>根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby（这里假设从 Ruby 2.4.0 升级）：</p>
+
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
+</span><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
+</span><span class="w">$ </span><span class="nc">brew</span><span class="kv"> reinstall ruby</span></code></pre></figure>
 
 <p>更彻底的解决方法是删除 /usr/local/lib/ruby 目录（其中包含已安装的 gem）：</p>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">rm -rf /usr/local/lib/ruby
-brew reinstall ruby</code></pre></figure>
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby
+</span><span class="w">$ </span><span class="nc">brew</span><span class="kv"> reinstall ruby</span></code></pre></figure>
 
 <h2 id="参考">参考</h2>
 

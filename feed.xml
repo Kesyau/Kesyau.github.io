@@ -1,43 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-08-20T00:54:42+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
-</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">解决 Homebrew 安装 Ruby 2.4.1 的问题</title><link href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html" rel="alternate" type="text/html" title="解决 Homebrew 安装 Ruby 2.4.1 的问题" /><published>2017-08-20T00:00:00+08:00</published><updated>2017-08-20T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/08/20/homebrew-ruby</id><content type="html" xml:base="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">&lt;p&gt;用 Homebrew 安装 Ruby 2.4.1 后运行 gem，可能遇到如下问题：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-08-27T22:35:11+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
+</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</title><link href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html" rel="alternate" type="text/html" title="解决 Homebrew 升级 Ruby 至 2.4.1 时的问题" /><published>2017-08-20T00:00:00+08:00</published><updated>2017-08-20T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/08/20/homebrew-ruby</id><content type="html" xml:base="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">&lt;h2 id=&quot;问题&quot;&gt;问题&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&amp;lt;top &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;required&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&amp;gt;&lt;span class=&quot;s1&quot;&gt;':
+&lt;p&gt;用 Homebrew 升级 Ruby 至 2.4.1 后运行 gem，可能遇到如下问题：&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-plaintext&quot; data-lang=&quot;plaintext&quot;&gt;/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in `&amp;lt;top (required)&amp;gt;':
 It seems your ruby installation is missing psych (for YAML output).
 To eliminate this warning, please install libyaml and reinstall your ruby.
-/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'&lt;/span&gt;: dlopen&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;/usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle, 9&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Library not loaded: /usr/local/opt/ruby/lib/libruby.2.4.0.dylib &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;LoadError&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+/usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require': dlopen(/usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle, 9): Library not loaded: /usr/local/opt/ruby/lib/libruby.2.4.0.dylib (LoadError)
   Referenced from: /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle
   Reason: image not found - /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;require&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.rb:8:in `&amp;lt;top (required)&amp;gt;'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;require&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:6:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&amp;lt;top &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;required&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&amp;gt;&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;require&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems.rb:700:in `load_yaml'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:340:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;load_file&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:202:in `initialize'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;new&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `do_configuration'&lt;/span&gt;
-	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:40:in &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;run&lt;span class=&quot;s1&quot;&gt;'
-	from /usr/local/bin/gem:21:in `&amp;lt;main&amp;gt;'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.rb:8:in `&amp;lt;top (required)&amp;gt;'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:6:in `&amp;lt;top (required)&amp;gt;'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems.rb:700:in `load_yaml'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:340:in `load_file'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:202:in `initialize'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `new'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `do_configuration'
+	from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:40:in `run'
+	from /usr/local/bin/gem:21:in `&amp;lt;main&amp;gt;'&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby：&lt;/p&gt;
+&lt;h2 id=&quot;解决&quot;&gt;解决&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;rm -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
-rm -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
-brew reinstall ruby&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby（这里假设从 Ruby 2.4.0 升级）：&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;brew&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; reinstall ruby&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;更彻底的解决方法是删除 /usr/local/lib/ruby 目录（其中包含已安装的 gem）：&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;rm -rf /usr/local/lib/ruby
-brew reinstall ruby&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby
+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;brew&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; reinstall ruby&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Homebrew/homebrew-core/issues/11636&quot;&gt;https://github.com/Homebrew/homebrew-core/issues/11636&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">用 Homebrew 安装 Ruby 2.4.1 后运行 gem，可能遇到如下问题： /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:5:in `&amp;lt;top (required)&amp;gt;': It seems your ruby installation is missing psych (for YAML output). To eliminate this warning, please install libyaml and reinstall your ruby. /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require': dlopen(/usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle, 9): Library not loaded: /usr/local/opt/ruby/lib/libruby.2.4.0.dylib (LoadError) Referenced from: /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle Reason: image not found - /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.bundle from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require' from /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib/psych.rb:8:in `&amp;lt;top (required)&amp;gt;' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/yaml.rb:6:in `&amp;lt;top (required)&amp;gt;' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems.rb:700:in `load_yaml' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:340:in `load_file' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/config_file.rb:202:in `initialize' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `new' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:75:in `do_configuration' from /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/rubygems/gem_runner.rb:40:in `run' from /usr/local/bin/gem:21:in `&amp;lt;main&amp;gt;' 根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby： rm -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4 rm -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4 brew reinstall ruby 更彻底的解决方法是删除 /usr/local/lib/ruby 目录（其中包含已安装的 gem）： rm -rf /usr/local/lib/ruby brew reinstall ruby</summary></entry><entry><title type="html">教材光盘链接</title><link href="https://kesyau.github.io/2017/07/18/cd.html" rel="alternate" type="text/html" title="教材光盘链接" /><published>2017-07-18T00:00:00+08:00</published><updated>2017-07-18T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/07/18/cd</id><content type="html" xml:base="https://kesyau.github.io/2017/07/18/cd.html">&lt;h2 id=&quot;日俄专业教材光盘&quot;&gt;日俄专业教材光盘&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">问题</summary></entry><entry><title type="html">教材光盘链接</title><link href="https://kesyau.github.io/2017/07/18/cd.html" rel="alternate" type="text/html" title="教材光盘链接" /><published>2017-07-18T00:00:00+08:00</published><updated>2017-07-18T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/07/18/cd</id><content type="html" xml:base="https://kesyau.github.io/2017/07/18/cd.html">&lt;h2 id=&quot;日俄专业教材光盘&quot;&gt;日俄专业教材光盘&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;链接：&lt;a href=&quot;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&quot;&gt;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&lt;/a&gt;&lt;/li&gt;
