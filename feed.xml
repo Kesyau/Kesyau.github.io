@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-09-20T16:56:18+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-09-22T10:24:34+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
 </subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</title><link href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html" rel="alternate" type="text/html" title="解决 Homebrew 升级 Ruby 至 2.4.1 时的问题" /><published>2017-08-20T00:00:00+08:00</published><updated>2017-08-20T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/08/20/homebrew-ruby</id><content type="html" xml:base="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">&lt;h2 id=&quot;问题&quot;&gt;问题&lt;/h2&gt;
 
 &lt;p&gt;用 Homebrew 升级 Ruby 至 2.4.1 后运行 gem，可能遇到如下问题：&lt;/p&gt;
@@ -28,14 +28,14 @@ To eliminate this warning, please install libyaml and reinstall your ruby.
 
 &lt;p&gt;根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby（这里假设从 Ruby 2.4.0 升级）：&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;brew&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; reinstall ruby&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; rm &lt;span class=&quot;nt&quot;&gt;-rf&lt;/span&gt; /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
+&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; rm &lt;span class=&quot;nt&quot;&gt;-rf&lt;/span&gt; /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
+&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; brew reinstall ruby&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;更彻底的解决方法是删除 /usr/local/lib/ruby 目录（其中包含已安装的 gem）：&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;rm&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; -rf /usr/local/lib/ruby
-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;brew&lt;/span&gt;&lt;span class=&quot;kv&quot;&gt; reinstall ruby&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell_session&quot; data-lang=&quot;shell_session&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; rm &lt;span class=&quot;nt&quot;&gt;-rf&lt;/span&gt; /usr/local/lib/ruby
+&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; brew reinstall ruby&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
 

@@ -109,14 +109,14 @@ To eliminate this warning, please install libyaml and reinstall your ruby.
 
 <p>根据提示，问题似乎是缺少 libyaml，但 libyaml 作为 Ruby 的依赖项早已安装。事实上，问题在于 psych，解决方法是删除 psych 再重新安装 Ruby（这里假设从 Ruby 2.4.0 升级）：</p>
 
-<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
-</span><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
-</span><span class="w">$ </span><span class="nc">brew</span><span class="kv"> reinstall ruby</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="gp">$</span> rm <span class="nt">-rf</span> /usr/local/lib/ruby/gems/2.4.0/gems/psych-2.2.4
+<span class="gp">$</span> rm <span class="nt">-rf</span> /usr/local/lib/ruby/gems/2.4.0/extensions/x86_64-darwin-16/2.4.0/psych-2.2.4
+<span class="gp">$</span> brew reinstall ruby</code></pre></figure>
 
 <p>更彻底的解决方法是删除 /usr/local/lib/ruby 目录（其中包含已安装的 gem）：</p>
 
-<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="w">$ </span><span class="nc">rm</span><span class="kv"> -rf /usr/local/lib/ruby
-</span><span class="w">$ </span><span class="nc">brew</span><span class="kv"> reinstall ruby</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-shell_session" data-lang="shell_session"><span class="gp">$</span> rm <span class="nt">-rf</span> /usr/local/lib/ruby
+<span class="gp">$</span> brew reinstall ruby</code></pre></figure>
 
 <h2 id="参考">参考</h2>
 
