@@ -1,5 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-09-22T10:24:34+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
-</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</title><link href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html" rel="alternate" type="text/html" title="解决 Homebrew 升级 Ruby 至 2.4.1 时的问题" /><published>2017-08-20T00:00:00+08:00</published><updated>2017-08-20T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/08/20/homebrew-ruby</id><content type="html" xml:base="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">&lt;h2 id=&quot;问题&quot;&gt;问题&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-10-05T18:47:37+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.
+</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">《现代汉语》笔记（一）：绪论</title><link href="https://kesyau.github.io/linguistics/2017/10/05/modern-chinese-1.html" rel="alternate" type="text/html" title="《现代汉语》笔记（一）：绪论" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/2017/10/05/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/2017/10/05/modern-chinese-1.html">&lt;p&gt;本文系笔者学习「黄廖本」《现代汉语》&lt;small&gt;［即黄伯荣等（2017）］&lt;/small&gt;绪论的笔记。略陈陋见，敬请指正。&lt;/p&gt;
+
+&lt;h2 id=&quot;提要&quot;&gt;提要&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;现代汉语：现代汉民族所使用的语言
+    &lt;ul&gt;
+      &lt;li&gt;现代民族共同语：普通话
+        &lt;ul&gt;
+          &lt;li&gt;民族共同语、国家通用语&lt;/li&gt;
+          &lt;li&gt;语音：以北京语音为标准音&lt;/li&gt;
+          &lt;li&gt;词汇：以北方话（北方方言、官话方言）为基础方言&lt;/li&gt;
+          &lt;li&gt;语法：以典范的现代白话文著作为语法规范&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;现代汉语方言：局部地区使用的语言
+        &lt;ul&gt;
+          &lt;li&gt;七大方言区：北方方言（官话方言）、吴方言、湘方言、赣方言、客家方言、闽方言、粤方言&lt;/li&gt;
+          &lt;li&gt;方言区＞方言片（次方言）&lt;small&gt;［见批注1］&lt;/small&gt;＞方言小片＞地点方言&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;现代汉语的形式：口语、书面语（以口语为基础）&lt;/li&gt;
+  &lt;li&gt;现代汉语有发达的文学语言（标准语）：经过高度加工并符合规范的语言&lt;/li&gt;
+  &lt;li&gt;现代汉语的特点
+    &lt;ul&gt;
+      &lt;li&gt;语音
+        &lt;ul&gt;
+          &lt;li&gt;没有复辅音&lt;/li&gt;
+          &lt;li&gt;元音占优势&lt;/li&gt;
+          &lt;li&gt;音节整齐简洁&lt;small&gt;［见批注3］&lt;/small&gt;&lt;/li&gt;
+          &lt;li&gt;有声调&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;词汇
+        &lt;ul&gt;
+          &lt;li&gt;单音节语素多，双音节词占优势&lt;/li&gt;
+          &lt;li&gt;构词广泛运用词根复合法&lt;/li&gt;
+          &lt;li&gt;同音语素多&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;语法
+        &lt;ul&gt;
+          &lt;li&gt;汉语表示语法意义的手段不大用形态，主要用语序和虚词&lt;/li&gt;
+          &lt;li&gt;词、短语和句子的结构规则基本一致&lt;/li&gt;
+          &lt;li&gt;词类和句法成分关系复杂&lt;/li&gt;
+          &lt;li&gt;量词和语气词十分丰富&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;文字&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;批注&quot;&gt;批注&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;第4页：「在复杂的方言区内，有的可以再分成若干方言片（又称次方言），……」
+    &lt;ul&gt;
+      &lt;li&gt;次方言应为方言片的上一层次。北方方言和闽方言常分为若干次方言。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;第5页：「现代汉语七大方言语音主要特点表」
+    &lt;ul&gt;
+      &lt;li&gt;本表比较的是各方言区的语音系统而非字音系统&lt;small&gt;［关于「语音系统」和「字音系统」，分别参见李如龙（2007）第四章和第五章］&lt;/small&gt;，故与音韵无关。这样比较看似简便，其实没有抓住本质，容易造成疏漏。如：&lt;/li&gt;
+      &lt;li&gt;表中的塞擦音、擦音仅有tʂ、ts、tʃ三组，无tɕ组。&lt;/li&gt;
+      &lt;li&gt;表中说北方方言有两个鼻音韵尾，这就带来鼻化韵母的问题&lt;small&gt;［表中许多方言区都有此问题］&lt;/small&gt;。因此又说西北方言有鼻化韵母，这就挂一漏万，遗漏了济南&lt;small&gt;［代表冀鲁官话］&lt;/small&gt;、扬州&lt;small&gt;［代表江淮官话］&lt;/small&gt;等地的鼻化韵母。&lt;/li&gt;
+      &lt;li&gt;表中说吴方言有两个鼻音韵尾，看似与北方方言同类，实则差异巨大。吴方言的鼻音韵尾&lt;small&gt;［包括鼻化韵母］&lt;/small&gt;一般不对立。湘方言的情况类似。&lt;/li&gt;
+      &lt;li&gt;表中说湘方言有入声，实则有无入声的方言点均大量存在。赣方言的情况类似，且入声韵尾多有ʔ。&lt;/li&gt;
+      &lt;li&gt;表中说闽方言的入声韵尾有p、t、k或ʔ，实则四者兼有的方言点大量存在。&lt;/li&gt;
+      &lt;li&gt;当然，这张表只是简要地比较各方言区的语音系统，一些次要问题可以忽略。但书中安排这样一张表，其目的在于直观地体现方言差异。就这一目的而言，这张表恐怕不尽如人意。书中说汉语方言「语音的差异最大，词汇的差异次之，语法的差别最小」&lt;small&gt;［第4页］&lt;/small&gt;，且不论正确与否，这里的语音差异主要是字音系统的差异。因为相比之下，字音系统的差异比语音系统的差异更显著，特别是在对各方言区进行比较时。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;第6页：「多数音节一个辅音在前，一个单元音或复元音在后，辅音在后头的很少，音节结构整齐而简洁，音节数目较少。」
+    &lt;ul&gt;
+      &lt;li&gt;以鼻音结尾的音节并不少。「音节数目较少」待考。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;侯精一, 主编. 2002. 现代汉语方言概要. 上海教育出版社.&lt;/li&gt;
+  &lt;li&gt;黄伯荣, 廖序东, 主编. 2017. 现代汉语. 高等教育出版社.&lt;/li&gt;
+  &lt;li&gt;李如龙. 2007. 汉语方言学. 高等教育出版社.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本文系笔者学习「黄廖本」《现代汉语》［即黄伯荣等（2017）］绪论的笔记。略陈陋见，敬请指正。</summary></entry><entry><title type="html">解决 Homebrew 升级 Ruby 至 2.4.1 时的问题</title><link href="https://kesyau.github.io/2017/08/20/homebrew-ruby.html" rel="alternate" type="text/html" title="解决 Homebrew 升级 Ruby 至 2.4.1 时的问题" /><published>2017-08-20T00:00:00+08:00</published><updated>2017-08-20T00:00:00+08:00</updated><id>https://kesyau.github.io/2017/08/20/homebrew-ruby</id><content type="html" xml:base="https://kesyau.github.io/2017/08/20/homebrew-ruby.html">&lt;h2 id=&quot;问题&quot;&gt;问题&lt;/h2&gt;
 
 &lt;p&gt;用 Homebrew 升级 Ruby 至 2.4.1 后运行 gem，可能遇到如下问题：&lt;/p&gt;
 
