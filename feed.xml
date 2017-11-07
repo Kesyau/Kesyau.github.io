@@ -1,22 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-11-05T10:02:38+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记</title><link href="https://kesyau.github.io/linguistics/modern-chinese-0.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记" /><published>2017-10-22T00:00:00+08:00</published><updated>2017-10-22T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-0.html">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-11-07T21:24:38+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/linguistics/modern-chinese-3.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00+08:00</published><updated>2017-11-07T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-3.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+
+&lt;h1 id=&quot;说明&quot;&gt;说明&lt;/h1&gt;
+
+&lt;p&gt;为便于记音，本文采用一种修改自《汉语拼音方案》的音位标音法&lt;small&gt;（关于音位的详细讨论见后续笔记）&lt;/small&gt;。其原则是：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;音位归纳方案与《汉语拼音方案》相同。&lt;/li&gt;
+  &lt;li&gt;一个字母表示一个音位。&lt;/li&gt;
+  &lt;li&gt;尽量采用原有字母及方案中认可的简短形式。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;它与《汉语拼音方案》的区别如下：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;zh ch sh ng er 省作 ẑ ĉ ŝ ŋ ɚ。&lt;/li&gt;
+  &lt;li&gt;ü iou uei uen 不省作 u iu ui un。&lt;/li&gt;
+  &lt;li&gt;ao iao ong iong 作 au iau uŋ üŋ。&lt;/li&gt;
+  &lt;li&gt;i u ü 不作 y w yu 或 yi wu yu。&lt;/li&gt;
+  &lt;li&gt;zhi chi shi ri zi ci si 的韵母作 ï。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;关于 i ɿ ʅ 的音位分析，《汉语拼音方案》未明确体现。有人分析为三个音位&lt;sup&gt;[1, 3]&lt;/sup&gt;，有人分析为一个音位&lt;sup&gt;[5, 6]&lt;/sup&gt;。本文采取折中方案，分析为两个音位。&lt;small&gt;（这里的「分析」均指根据《汉语拼音方案》分析，而非独立分析。）&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;er 的问题较复杂，本文暂且视之为一个独立的音位 ɚ。&lt;/p&gt;
+
+&lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
+
+&lt;p&gt;根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;音节：由音素构成的语音片段&lt;small&gt;（原书作「片断」，笔者倾向于「片段」）&lt;/small&gt;，听话时自然感到的最小的语音单位。&lt;/li&gt;
+  &lt;li&gt;声母：位于音节前段，主要由辅音构成。&lt;/li&gt;
+  &lt;li&gt;韵母：位于音节的后段，由元音或元音加辅音构成。&lt;/li&gt;
+  &lt;li&gt;声调：依附在声韵结构中具有区别意义作用的音高型式。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;音节结构&quot;&gt;音节结构&lt;/h1&gt;
+
+&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th rowspan=&quot;4&quot;&gt;例字&lt;/th&gt;&lt;th colspan=&quot;4&quot;&gt;声调&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th rowspan=&quot;3&quot;&gt;声母&lt;/th&gt;&lt;th colspan=&quot;3&quot;&gt;韵母&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th rowspan=&quot;2&quot;&gt;韵头（介音）&lt;/th&gt;&lt;th colspan=&quot;2&quot;&gt;韵（韵身、韵基）&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th&gt;韵腹&lt;/th&gt;&lt;th&gt;韵尾&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;鹅&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;藕&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;叶&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;歪&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;昂&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ŋ&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;远&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;笛&lt;/td&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;手&lt;/td&gt;&lt;td&gt;ŝ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;节&lt;/td&gt;&lt;td&gt;j&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;快&lt;/td&gt;&lt;td&gt;k&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;钢&lt;/td&gt;&lt;td&gt;g&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ŋ&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;宣&lt;/td&gt;&lt;td&gt;x&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;表中例字取自《现代汉语》&lt;sup&gt;[5: 90]&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;h1 id=&quot;声母&quot;&gt;声母&lt;/h1&gt;
+
+&lt;p&gt;由于普通话的声母均为单个辅音，这里直接借用辅音分类的方法。&lt;/p&gt;
+
+&lt;table class=&quot;ui center aligned eight column very compact small celled structured table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;双唇音&lt;/th&gt;&lt;th&gt;唇齿音&lt;/th&gt;&lt;th&gt;舌尖前&lt;br /&gt;齿音&lt;/th&gt;&lt;th&gt;舌尖中&lt;br /&gt;齿龈音&lt;/th&gt;&lt;th&gt;舌尖后&lt;br /&gt;硬腭音&lt;/th&gt;&lt;th&gt;舌面前&lt;br /&gt;硬腭音&lt;/th&gt;&lt;th&gt;舌面后&lt;br /&gt;软腭音&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;不送气&lt;br /&gt;清塞音&lt;/td&gt;&lt;td&gt;b&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;g&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;送气&lt;br /&gt;清塞音&lt;/td&gt;&lt;td&gt;p&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;t&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;k&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;不送气&lt;br /&gt;清塞擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;z&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ẑ&lt;/td&gt;&lt;td&gt;j&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;送气&lt;br /&gt;清塞擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;c&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ĉ&lt;/td&gt;&lt;td&gt;q&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;清擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;f&lt;/td&gt;&lt;td&gt;s&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ŝ&lt;/td&gt;&lt;td&gt;x&lt;/td&gt;&lt;td&gt;h&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;浊擦音&lt;br /&gt;通音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;r&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;鼻音&lt;/td&gt;&lt;td&gt;m&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;边音&lt;br /&gt;边通音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;l&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;《现代汉语》&lt;sup&gt;[6: 47]&lt;/sup&gt;将 r 归为通音（近音），《现代汉语》&lt;sup&gt;[5: 55]&lt;/sup&gt;也作了相关讨论。&lt;/p&gt;
+
+&lt;p&gt;关于「零声母」：「韵母前面的空位，其作用相当于一个声母，叫作“零声母”，需要时可以用符号 ∅ 表示。在现代语言学里，表示空位的“零”，如零形态、零音节、零形冠词等，都是指在语流中不含任何语音材料，但为了在某种分析中保持系统上的均衡性或对称性而设定的抽象单位。」&lt;sup&gt;[5: 54]&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;韵母&quot;&gt;韵母&lt;/h1&gt;
+
+&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;开口呼&lt;/th&gt;&lt;th&gt;齐齿呼&lt;/th&gt;&lt;th&gt;合口呼&lt;/th&gt;&lt;th&gt;撮口呼&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td rowspan=&quot;6&quot;&gt;无韵尾韵母&lt;br /&gt;开尾韵母&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ia&lt;/td&gt;&lt;td&gt;ua&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uo&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;ie&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;üe&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;ï&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;ɚ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;元音韵尾韵母&lt;br /&gt;元音尾韵母&lt;/td&gt;&lt;td&gt;ai&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uai&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;ei&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uei&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;au&lt;/td&gt;&lt;td&gt;iau&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;ou&lt;/td&gt;&lt;td&gt;iou&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td rowspan=&quot;6&quot;&gt;鼻音韵尾韵母&lt;br /&gt;鼻音尾韵母&lt;/td&gt;&lt;td&gt;an&lt;/td&gt;&lt;td&gt;ian&lt;/td&gt;&lt;td&gt;uan&lt;/td&gt;&lt;td&gt;üan&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;en&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uen&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;in&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ün&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;aŋ&lt;/td&gt;&lt;td&gt;iaŋ&lt;/td&gt;&lt;td&gt;uaŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;eŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ueŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;iŋ&lt;/td&gt;&lt;td&gt;uŋ&lt;/td&gt;&lt;td&gt;üŋ&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;本表没有严格依照四呼对应关系。一般将 i u ü 与 ï 对应，将 in ün 与 en uen 对应，将 iŋ 与 eŋ ueŋ 对应。uŋ üŋ 的情况则比较复杂。&lt;/p&gt;
+
+&lt;h1 id=&quot;声韵拼合规律&quot;&gt;声韵拼合规律&lt;/h1&gt;
+
+&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;开口呼&lt;/th&gt;&lt;th&gt;齐齿呼&lt;/th&gt;&lt;th&gt;合口呼&lt;/th&gt;&lt;th&gt;撮口呼&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;b p m&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;f&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;z c s&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;d t&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;n l&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;ẑ ĉ ŝ r&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;j q x&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;g k h&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;∅&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[7] 林焘, 王理嘉, 著; 王韫佳, 王理嘉, 增订. 2013. &lt;strong&gt;语音学教程（增订版）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+  &lt;li&gt;[8] 朱晓农. 2010. &lt;strong&gt;语音学.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记</title><link href="https://kesyau.github.io/linguistics/modern-chinese-0.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记" /><published>2017-10-22T00:00:00+08:00</published><updated>2017-10-22T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-0.html">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;主要参考&quot;&gt;主要参考&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[1] 黄伯荣, 廖序东, 主编. 2017. 现代汉语（上册）. 高等教育出版社.&lt;/li&gt;
-  &lt;li&gt;[2] 黄伯荣, 廖序东, 主编. 2017. 现代汉语（下册）. 高等教育出版社.&lt;/li&gt;
-  &lt;li&gt;[3] 黄伯荣, 李炜, 主编. 2012. 现代汉语（上册）. 北京大学出版社.&lt;/li&gt;
-  &lt;li&gt;[4] 黄伯荣, 李炜, 主编. 2012. 现代汉语（下册）. 北京大学出版社.&lt;/li&gt;
-  &lt;li&gt;[5] 北京大学中文系现代汉语教研室, 编. 2012. 现代汉语（增订本）. 商务印书馆.&lt;/li&gt;
-  &lt;li&gt;[6] 沈阳, 郭锐, 主编. 2014. 现代汉语. 高等教育出版社.&lt;/li&gt;
+  &lt;li&gt;[1] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（上册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+  &lt;li&gt;[2] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（下册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+  &lt;li&gt;[3] 黄伯荣, 李炜, 主编. 2012. &lt;strong&gt;现代汉语（上册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+  &lt;li&gt;[4] 黄伯荣, 李炜, 主编. 2012. &lt;strong&gt;现代汉语（下册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+  &lt;li&gt;[5] 北京大学中文系现代汉语教研室, 编. 2012. &lt;strong&gt;现代汉语（增订本）.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
+  &lt;li&gt;[6] 沈阳, 郭锐, 主编. 2014. &lt;strong&gt;现代汉语.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;目次&quot;&gt;目次&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-1.html&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;音素&lt;/li&gt;
-  &lt;li&gt;音节&lt;/li&gt;
+  &lt;li&gt;音素（辅音、元音）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;（声母、韵母）&lt;/li&gt;
   &lt;li&gt;音位&lt;/li&gt;
   &lt;li&gt;音变&lt;/li&gt;
   &lt;li&gt;词汇&lt;/li&gt;
@@ -24,6 +165,8 @@
   &lt;li&gt;方言&lt;/li&gt;
   &lt;li&gt;文字&lt;/li&gt;
 &lt;/ol&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-1.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：概说" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-1.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+
+&lt;p&gt;本文主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;h1 id=&quot;提要&quot;&gt;提要&lt;/h1&gt;
 
@@ -80,11 +223,11 @@
 
 &lt;p&gt;&lt;strong&gt;(1) 「在复杂的方言区内，有的可以再分成若干方言片（又称次方言），……」&lt;sup&gt;[1: 4]&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;书中将北方方言和闽方言分为若干次方言，其他方言未作说明。揣测作者之意，「在复杂的方言区内，有的可以再分成若干方言片（又称次方言），甚至再分“方言小片”，……」，似乎其他方言区未必需要再分片。&lt;small&gt;［《现代汉语》&lt;sup&gt;[6: 17–18]&lt;/sup&gt;则将八大方言区都分为若干「次方言片」。］&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;书中将北方方言和闽方言分为若干次方言，其他方言未作说明。揣测作者之意，「在复杂的方言区内，有的可以再分成若干方言片（又称次方言），甚至再分“方言小片”，……」，似乎其他方言区未必需要再分片。《现代汉语》&lt;sup&gt;[6: 17–18]&lt;/sup&gt;则将八大方言区都分为若干「次方言片」。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;(2) 「现代汉语七大方言语音主要特点表」&lt;sup&gt;[1: 5]&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;本表比较的是各方言区的语音系统而非字音系统&lt;small&gt;［关于「语音系统」和「字音系统」见《汉语方言学》&lt;sup&gt;[8: 第四、五章]&lt;/sup&gt;］&lt;/small&gt;。这样看似简便，却有一些问题。如：&lt;/p&gt;
+&lt;p&gt;本表比较的是各方言区的语音系统而非字音系统&lt;small&gt;（关于「语音系统」和「字音系统」见《汉语方言学》&lt;sup&gt;[8: 第四、五章]&lt;/sup&gt;）&lt;/small&gt;。这样看似简便，却有一些问题。如：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -98,7 +241,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;以上是几个明显的问题，此外还有一些疏漏。诚然，这张表只是简要地比较各大方言区的语音系统，一些次要问题可以忽略。但书中安排这样一张表，其目的在于直观地体现方言差异。就这一目的而言，这张表恐怕不尽如人意。书中说汉语方言「语音的差异最大，词汇的差异次之，语法的差别最小」&lt;sup&gt;[1: 4]&lt;/sup&gt;，且不论正确与否，这里的语音差异主要是字音系统的差异。因为相比之下，字音系统的差异比语音系统的差异更显著，特别是在对各方言区进行比较时。&lt;small&gt;［《现代汉语》&lt;sup&gt;[6: 20]&lt;/sup&gt;的表格比本表更理想，但也有一些问题。关于方言的详细讨论见后续笔记。］&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;以上是几个明显的问题，此外还有一些疏漏。诚然，这张表只是简要地比较各大方言区的语音系统，一些次要问题可以忽略。但书中安排这样一张表，其目的在于直观地体现方言差异。就这一目的而言，这张表恐怕不尽如人意。书中说汉语方言「语音的差异最大，词汇的差异次之，语法的差别最小」&lt;sup&gt;[1: 4]&lt;/sup&gt;，且不论正确与否，这里的语音差异主要是字音系统的差异。因为相比之下，字音系统的差异比语音系统的差异更显著，特别是在对各方言区进行比较时。《现代汉语》&lt;sup&gt;[6: 20]&lt;/sup&gt;的表格比本表更理想，但也有一些问题。关于方言的详细讨论见后续笔记。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;(3) 「音节界限分明，乐音较多，噪音少，……」&lt;sup&gt;[1: 6]&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -112,8 +255,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[7] 侯精一, 主编. 2002. 现代汉语方言概要. 上海教育出版社.&lt;/li&gt;
-  &lt;li&gt;[8] 李如龙. 2007. 汉语方言学. 高等教育出版社.&lt;/li&gt;
+  &lt;li&gt;[7] 侯精一, 主编. 2002. &lt;strong&gt;现代汉语方言概要.&lt;/strong&gt; 上海教育出版社.&lt;/li&gt;
+  &lt;li&gt;[8] 李如龙. 2007. &lt;strong&gt;汉语方言学.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">教材光盘链接</title><link href="https://kesyau.github.io/bnu/cd.html" rel="alternate" type="text/html" title="教材光盘链接" /><published>2017-07-18T00:00:00+08:00</published><updated>2017-07-18T00:00:00+08:00</updated><id>https://kesyau.github.io/bnu/cd</id><content type="html" xml:base="https://kesyau.github.io/bnu/cd.html">&lt;h1 id=&quot;日俄专业教材光盘&quot;&gt;日俄专业教材光盘&lt;/h1&gt;
 
 &lt;ul&gt;
