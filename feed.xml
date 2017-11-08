@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-11-08T17:11:53+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/linguistics/modern-chinese-3.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00+08:00</published><updated>2017-11-07T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-3.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-11-08T21:33:33+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/linguistics/modern-chinese-3.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00+08:00</published><updated>2017-11-07T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-3.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;说明&quot;&gt;说明&lt;/h1&gt;
 
@@ -114,7 +114,7 @@
 
 &lt;p&gt;本表没有严格依照四呼对应关系。一般将 i u ü 与 ï 对应，将 in ün 与 en uen 对应，将 iŋ 与 eŋ ueŋ 对应。uŋ üŋ 的情况则比较复杂。&lt;/p&gt;
 
-&lt;h1 id=&quot;声韵拼合规律&quot;&gt;声韵拼合规律&lt;/h1&gt;
+&lt;h1 id=&quot;声韵配合关系&quot;&gt;声韵配合关系&lt;/h1&gt;
 
 &lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
   &lt;thead&gt;
@@ -141,30 +141,45 @@
   &lt;li&gt;[8] 朱晓农. 2010. &lt;strong&gt;语音学.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记</title><link href="https://kesyau.github.io/linguistics/modern-chinese-0.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记" /><published>2017-10-22T00:00:00+08:00</published><updated>2017-10-22T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-0.html">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
-&lt;h1 id=&quot;主要参考&quot;&gt;主要参考&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[1] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（增订六版）（上册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
-  &lt;li&gt;[2] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（增订六版）（下册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
-  &lt;li&gt;[3] 黄伯荣, 李炜, 主编. 2016. &lt;strong&gt;现代汉语（第二版）（上册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
-  &lt;li&gt;[4] 黄伯荣, 李炜, 主编. 2016. &lt;strong&gt;现代汉语（第二版）（下册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
-  &lt;li&gt;[5] 北京大学中文系现代汉语教研室, 编. 2012. &lt;strong&gt;现代汉语（增订本）.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
-  &lt;li&gt;[6] 沈阳, 郭锐, 主编. 2014. &lt;strong&gt;现代汉语.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&quot;目次&quot;&gt;目次&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-1.html&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;音素（辅音、元音）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;（声母、韵母）&lt;/li&gt;
-  &lt;li&gt;音位&lt;/li&gt;
-  &lt;li&gt;音变&lt;/li&gt;
+  &lt;li&gt;语音概说&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;（音节结构、声母、韵母、声韵配合关系）&lt;/li&gt;
+  &lt;li&gt;语音：音位&lt;/li&gt;
+  &lt;li&gt;语音：音变&lt;/li&gt;
   &lt;li&gt;词汇&lt;/li&gt;
   &lt;li&gt;语法&lt;/li&gt;
-  &lt;li&gt;方言&lt;/li&gt;
   &lt;li&gt;文字&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-1.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：概说" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-1.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;主要参考
+    &lt;ul&gt;
+      &lt;li&gt;[1] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（增订六版）（上册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+      &lt;li&gt;[2] 黄伯荣, 廖序东, 主编. 2017. &lt;strong&gt;现代汉语（增订六版）（下册）.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+      &lt;li&gt;[3] 黄伯荣, 李炜, 主编. 2016. &lt;strong&gt;现代汉语（第二版）（上册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+      &lt;li&gt;[4] 黄伯荣, 李炜, 主编. 2016. &lt;strong&gt;现代汉语（第二版）（下册）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+      &lt;li&gt;[5] 北京大学中文系现代汉语教研室, 编. 2012. &lt;strong&gt;现代汉语（增订本）.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
+      &lt;li&gt;[6] 沈阳, 郭锐, 主编. 2014. &lt;strong&gt;现代汉语.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语音
+    &lt;ul&gt;
+      &lt;li&gt;林焘, 王理嘉, 著; 王韫佳, 王理嘉, 增订. 2013. &lt;strong&gt;语音学教程（增订版）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
+      &lt;li&gt;朱晓农. 2010. &lt;strong&gt;语音学.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;方言
+    &lt;ul&gt;
+      &lt;li&gt;侯精一, 主编. 2002. &lt;strong&gt;现代汉语方言概要.&lt;/strong&gt; 上海教育出版社.&lt;/li&gt;
+      &lt;li&gt;李如龙. 2007. &lt;strong&gt;汉语方言学.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-1.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：概说" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-1.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;p&gt;本文主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
 
