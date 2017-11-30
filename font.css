@@ -1,24 +1,24 @@
 @font-face {
-  font-family: "SourceSansPro";
-  src: url("subset/SourceSansPro-Regular.otf");
+  font-family: "Noto Sans";
+  src: url("subset/NotoSans-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url("subset/SourceSansPro-Bold.otf");
+  font-family: "Noto Sans";
+  src: url("subset/NotoSans-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: "SourceHanSans";
-  src: url("subset/SourceHanSansCN-Regular.otf");
+  font-family: "Noto Sans CJK SC";
+  src: url("subset/NotoSansCJKsc-Regular.otf");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "SourceHanSans";
-  src: url("subset/SourceHanSansCN-Bold.otf");
+  font-family: "Noto Sans CJK SC";
+  src: url("subset/NotoSansCJKsc-Bold.otf");
   font-weight: 700;
   font-style: normal;
 }
