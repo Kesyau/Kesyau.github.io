@@ -1,6 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-12-02T20:09:44+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/linguistics/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-12-02T20:55:23+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：语音概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-2.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：语音概说" /><published>2017-12-02T00:00:00+08:00</published><updated>2017-12-02T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-2</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-2.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
-&lt;p&gt;为便于记音，本文采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
+&lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;语音：人类说话的声音，语义的表达形式，语言的物质外壳
+    &lt;ul&gt;
+      &lt;li&gt;物理属性：音高、音强、音长、音色（音质）&lt;/li&gt;
+      &lt;li&gt;生理属性&lt;/li&gt;
+      &lt;li&gt;社会属性（本质属性）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;语音单位
+    &lt;ul&gt;
+      &lt;li&gt;音素：最小的语音单位
+        &lt;ul&gt;
+          &lt;li&gt;辅音（子音）：气流经过口腔或咽头受阻碍而形成的音素
+            &lt;ul&gt;
+              &lt;li&gt;发音部位：发音时气流受到阻碍的位置
+                &lt;ul&gt;
+                  &lt;li&gt;双唇音：由上唇和下齿阻塞气流而形成&lt;/li&gt;
+                  &lt;li&gt;唇齿音：由上齿和下唇接近阻碍气流而形成&lt;/li&gt;
+                  &lt;li&gt;舌尖前音（平舌音）：由舌尖抵住或接近齿背阻碍气流而形成&lt;/li&gt;
+                  &lt;li&gt;舌尖中音：由舌尖抵住上齿龈阻碍气流而形成。&lt;/li&gt;
+                  &lt;li&gt;舌尖后音（卷舌音、翘舌音）：由舌尖卷起，抵住或接近硬腭前部阻碍气流而形成&lt;/li&gt;
+                  &lt;li&gt;舌面前音（舌面音）：由舌面前部抵住或接近硬腭前部阻碍气流而形成&lt;/li&gt;
+                  &lt;li&gt;舌面后音（舌根音）：由舌面后部抵住或接近软腭阻碍气流而形成&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;发音方法：发音时喉头、口腔和鼻腔节制气流的方式和状况
+                &lt;ul&gt;
+                  &lt;li&gt;阻碍的方式：塞音、擦音、塞擦音、鼻音、边音&lt;/li&gt;
+                  &lt;li&gt;声带是否振动：浊音（带音）、清音（不带音）&lt;/li&gt;
+                  &lt;li&gt;气流的强弱：送气音、不送气音&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;元音（母音）：气流振动声带发出声音，经过口腔、咽头不受阻碍而形成的音素
+            &lt;ul&gt;
+              &lt;li&gt;单元音：发音时口形（包括舌位、唇形、开口度）始终不变的元音
+                &lt;ul&gt;
+                  &lt;li&gt;舌面元音
+                    &lt;ul&gt;
+                      &lt;li&gt;舌位的高低：高元音（闭元音）、半高元音（半闭元音）、半低元音（半开元音）、低元音（开元音）&lt;/li&gt;
+                      &lt;li&gt;舌位的前后：前元音、央元音、后元音&lt;/li&gt;
+                      &lt;li&gt;唇形的圆展：圆唇元音、展唇元音（不圆唇元音、非圆唇元音）&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;舌尖元音：舌尖前元音、舌尖后元音&lt;/li&gt;
+                  &lt;li&gt;卷舌元音&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;复元音：发音时舌位、唇形都有变化的元音&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;音节：说话时自然感到的最小的语音单位&lt;/li&gt;
+      &lt;li&gt;音位：一个语音系统中能够区别意义的最小的语音单位&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><category term="linguistics" /><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/linguistics/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+
+&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
 
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
@@ -110,7 +180,7 @@
 
 &lt;h1 id=&quot;说明&quot;&gt;说明&lt;/h1&gt;
 
-&lt;p&gt;为便于记音，本文采用一种修改自《汉语拼音方案》的音位标音法&lt;small&gt;（关于音位的详细讨论见后续笔记）&lt;/small&gt;。其原则是：&lt;/p&gt;
+&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法&lt;small&gt;（关于音位的详细讨论见后续笔记）&lt;/small&gt;。其原则是：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;音位归纳方案与《汉语拼音方案》相同。&lt;/li&gt;
@@ -140,7 +210,7 @@
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;音节：由音素构成的语音片段&lt;small&gt;（原书作「片断」，笔者倾向于「片段」）&lt;/small&gt;，听话时自然感到的最小的语音单位。&lt;/li&gt;
+  &lt;li&gt;音节：由音素构成的语音片段&lt;small&gt;（原书作「片断」）&lt;/small&gt;，听话时自然感到的最小的语音单位。&lt;/li&gt;
   &lt;li&gt;声母：位于音节前段，主要由辅音构成。&lt;/li&gt;
   &lt;li&gt;韵母：位于音节的后段，由元音或元音加辅音构成。&lt;/li&gt;
   &lt;li&gt;声调：依附在声韵结构中具有区别意义作用的音高型式。&lt;/li&gt;
@@ -258,8 +328,8 @@
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-1.html&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;语音概说&lt;/li&gt;
-  &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;（音节结构、声母、韵母、声韵配合关系）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-2.html&quot;&gt;语音概说&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-4.html&quot;&gt;音位&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;语音：音变&lt;/li&gt;
   &lt;li&gt;词汇&lt;/li&gt;
