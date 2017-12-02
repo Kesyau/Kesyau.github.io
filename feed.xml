@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-12-02T00:00:35+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/linguistics/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2017-12-02T20:09:44+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer.</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/linguistics/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;p&gt;为便于记音，本文采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
 
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
-&lt;p&gt;根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;：&lt;/p&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;音素：按语音的物理属性和生理属性划分出来的最小语音单位。&lt;/li&gt;
-  &lt;li&gt;音位：按语音的社会属性划分出来的最小的区别意义的语音单位。
+  &lt;li&gt;音素：按语音的物理属性和生理属性划分出来的最小语音单位&lt;/li&gt;
+  &lt;li&gt;音位：按语音的社会属性划分出来的最小的区别意义的语音单位
     &lt;ul&gt;
       &lt;li&gt;音质音位（音段音位）：辅音音位、元音音位&lt;/li&gt;
       &lt;li&gt;非音质音位（超音段音位）：声调音位（调位）&lt;/li&gt;
@@ -23,12 +21,13 @@
   &lt;li&gt;归纳音位的标准：辨义功能、互补分布、音感差异&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
+
 &lt;h1 id=&quot;普通话元音音位&quot;&gt;普通话元音音位&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;a
     &lt;ul&gt;
-      &lt;li&gt;ᴀ：零韵尾前&lt;/li&gt;
       &lt;li&gt;ɑ：u 或 ŋ 前&lt;/li&gt;
       &lt;li&gt;ε：i 和 n 间&lt;/li&gt;
       &lt;li&gt;æ：ü 和 n 间&lt;/li&gt;
@@ -37,7 +36,6 @@
   &lt;/li&gt;
   &lt;li&gt;o
     &lt;ul&gt;
-      &lt;li&gt;ǝ：u 前&lt;/li&gt;
       &lt;li&gt;o&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -45,7 +43,8 @@
     &lt;ul&gt;
       &lt;li&gt;e：i 前&lt;/li&gt;
       &lt;li&gt;ε：i 或 ü 后&lt;/li&gt;
-      &lt;li&gt;ǝ：n 或 ŋ 前&lt;/li&gt;
+      &lt;li&gt;ǝ：n 前&lt;/li&gt;
+      &lt;li&gt;ʌ：ŋ 前&lt;/li&gt;
       &lt;li&gt;ɤ&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -59,8 +58,8 @@
   &lt;/li&gt;
   &lt;li&gt;u
     &lt;ul&gt;
-      &lt;li&gt;ʊ：作韵尾；ŋ 前&lt;/li&gt;
-      &lt;li&gt;ʋ：作韵头（自由变体）；f 后&lt;/li&gt;
+      &lt;li&gt;ʊ：作韵尾&lt;/li&gt;
+      &lt;li&gt;ʋ：零声母后（自由变体）；f 后&lt;/li&gt;
       &lt;li&gt;u&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -71,7 +70,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;以上参考《现代汉语》&lt;sup&gt;[5, 6]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[6]&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;h1 id=&quot;普通话声调音位&quot;&gt;普通话声调音位&lt;/h1&gt;
 
@@ -88,19 +87,20 @@
   &lt;/li&gt;
   &lt;li&gt;上声
     &lt;ul&gt;
-      &lt;li&gt;211：非上声前&lt;/li&gt;
+      &lt;li&gt;21：非上声前&lt;/li&gt;
       &lt;li&gt;35：上声前&lt;/li&gt;
       &lt;li&gt;214&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;去声
     &lt;ul&gt;
+      &lt;li&gt;53：去声前&lt;/li&gt;
       &lt;li&gt;51&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;以上参考《现代汉语》&lt;sup&gt;[5, 6]&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
 
@@ -139,14 +139,14 @@
 
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
-&lt;p&gt;根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;：&lt;/p&gt;
-
 &lt;ul&gt;
   &lt;li&gt;音节：由音素构成的语音片段&lt;small&gt;（原书作「片断」，笔者倾向于「片段」）&lt;/small&gt;，听话时自然感到的最小的语音单位。&lt;/li&gt;
   &lt;li&gt;声母：位于音节前段，主要由辅音构成。&lt;/li&gt;
   &lt;li&gt;韵母：位于音节的后段，由元音或元音加辅音构成。&lt;/li&gt;
   &lt;li&gt;声调：依附在声韵结构中具有区别意义作用的音高型式。&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;h1 id=&quot;音节结构&quot;&gt;音节结构&lt;/h1&gt;
 
