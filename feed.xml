@@ -1,10 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-02-01T23:46:54+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">语言杂记（一）</title><link href="https://kesyau.github.io/linguistics/note-1.html" rel="alternate" type="text/html" title="语言杂记（一）" /><published>2018-02-01T00:00:00+08:00</published><updated>2018-02-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/note-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/note-1.html">&lt;p&gt;《英语诗歌常识与名作研读》&lt;small&gt;（景晓莺、王丹斌主编，上海交通大学出版社，2011）&lt;/small&gt;第22页讲到休斯《疲惫的蓝调》（&lt;em&gt;The Weary Blues&lt;/em&gt;）时说：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-02-26T13:07:06+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">语言杂记（二）</title><link href="https://kesyau.github.io/language/note-2.html" rel="alternate" type="text/html" title="语言杂记（二）" /><published>2018-02-26T00:00:00+08:00</published><updated>2018-02-26T00:00:00+08:00</updated><id>https://kesyau.github.io/language/note-2</id><content type="html" xml:base="https://kesyau.github.io/language/note-2.html">&lt;p&gt;《简明语言学史》&lt;small&gt;（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015重印））&lt;/small&gt;第 12–13 页似乎漏印了希腊字母Ϙ（koppa或qoppa）和腓尼基字母𐤒（qoph）。&lt;/p&gt;
+
+&lt;p&gt;一些古希腊字母及其 Unicode 码位：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ϝ (03DC), ϝ (03DD): ‘digamma’, ‘waw’, ‘wau’
+    &lt;ul&gt;
+      &lt;li&gt;Ϛ (03DA), ϛ (03DB): 数字 6&lt;/li&gt;
+      &lt;li&gt;Ͷ (0376), ͷ (0377): Pamphylian ‘digamma’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ϻ (03FA), ϻ (03FB): ‘san’
+    &lt;ul&gt;
+      &lt;li&gt;Ͷ (0376), ͷ (0377): Arcadian ‘tsan’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ͳ (0372), ͳ (0373): Ionian ‘sampi’
+    &lt;ul&gt;
+      &lt;li&gt;Ϡ (03E0), ϡ (03E1): 数字 900&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ϸ (03F7), ϸ (03F8): Bactrian ‘sho’&lt;/li&gt;
+  &lt;li&gt;Ϙ (03D8), ϙ (03D9): ‘koppa’, ‘qoppa’
+    &lt;ul&gt;
+      &lt;li&gt;Ϟ (03DE), ϟ (03DF): 数字 90&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《简明语言学史》（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015重印））第 12–13 页似乎漏印了希腊字母Ϙ（koppa或qoppa）和腓尼基字母𐤒（qoph）。</summary></entry><entry><title type="html">语言杂记（一）</title><link href="https://kesyau.github.io/language/note-1.html" rel="alternate" type="text/html" title="语言杂记（一）" /><published>2018-02-01T00:00:00+08:00</published><updated>2018-02-01T00:00:00+08:00</updated><id>https://kesyau.github.io/language/note-1</id><content type="html" xml:base="https://kesyau.github.io/language/note-1.html">&lt;p&gt;《英语诗歌常识与名作研读》&lt;small&gt;（景晓莺、王丹斌主编，上海交通大学出版社，2011）&lt;/small&gt;第22页讲到休斯《疲惫的蓝调》（&lt;em&gt;The Weary Blues&lt;/em&gt;）时说：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;诗中我们也可以看到黑人文化中丰富的音乐传统和黑人英语的特点，比如 Ain’t got nobody in all this world，ain’t 为教育程度不高的人的用语，相当于 am (is, are) not 或 have (has) not，但是在黑人英语中，ain’t 似乎并没有否定的意思，所以这句等于 I have got nobody in all this world。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;结论固然正确，「ain’t 似乎并没有否定的意思」却令人费解。这实为人类语言中广泛存在的一个现象：否定助词加否定代词仍表否定。黑人英语是其中一例。&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《英语诗歌常识与名作研读》（景晓莺、王丹斌主编，上海交通大学出版社，2011）第22页讲到休斯《疲惫的蓝调》（The Weary Blues）时说：</summary></entry><entry><title type="html">『现代汉语』学习笔记：语音概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-2.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：语音概说" /><published>2017-12-02T00:00:00+08:00</published><updated>2017-12-02T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-2</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-2.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+&lt;p&gt;结论固然正确，「ain’t 似乎并没有否定的意思」却令人费解。这实为人类语言中广泛存在的一个现象：否定助词加否定代词仍表否定。黑人英语是其中一例。&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《英语诗歌常识与名作研读》（景晓莺、王丹斌主编，上海交通大学出版社，2011）第22页讲到休斯《疲惫的蓝调》（The Weary Blues）时说：</summary></entry><entry><title type="html">『现代汉语』学习笔记：语音概说</title><link href="https://kesyau.github.io/language/modern-chinese-2.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：语音概说" /><published>2017-12-02T00:00:00+08:00</published><updated>2017-12-02T00:00:00+08:00</updated><id>https://kesyau.github.io/language/modern-chinese-2</id><content type="html" xml:base="https://kesyau.github.io/language/modern-chinese-2.html">&lt;p&gt;&lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
@@ -73,10 +100,10 @@
 &lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/linguistics/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/language/modern-chinese-4.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00+08:00</published><updated>2017-12-01T00:00:00+08:00</updated><id>https://kesyau.github.io/language/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/language/modern-chinese-4.html">&lt;p&gt;&lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
-&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
+&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/language/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
 
 &lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
 
@@ -181,8 +208,8 @@
 &lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/linguistics/modern-chinese-3.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00+08:00</published><updated>2017-11-07T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-3.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/language/modern-chinese-3.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00+08:00</published><updated>2017-11-07T00:00:00+08:00</updated><id>https://kesyau.github.io/language/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/language/modern-chinese-3.html">&lt;p&gt;&lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;说明&quot;&gt;说明&lt;/h1&gt;
 
@@ -325,18 +352,18 @@
 &lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;[7] 林焘, 王理嘉, 著; 王韫佳, 王理嘉, 增订. 2013. &lt;strong&gt;语音学教程（增订版）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
   &lt;li&gt;[8] 朱晓农. 2010. &lt;strong&gt;语音学.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记</title><link href="https://kesyau.github.io/linguistics/modern-chinese-0.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记" /><published>2017-10-22T00:00:00+08:00</published><updated>2017-10-22T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-0.html">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记</title><link href="https://kesyau.github.io/language/modern-chinese-0.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记" /><published>2017-10-22T00:00:00+08:00</published><updated>2017-10-22T00:00:00+08:00</updated><id>https://kesyau.github.io/language/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/language/modern-chinese-0.html">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;目次&quot;&gt;目次&lt;/h1&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-1.html&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/linguistics/modern-chinese-2.html&quot;&gt;语音概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;语音：&lt;a href=&quot;/linguistics/modern-chinese-4.html&quot;&gt;音位&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/language/modern-chinese-1.html&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/language/modern-chinese-2.html&quot;&gt;语音概说&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a href=&quot;/language/modern-chinese-3.html&quot;&gt;音节&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a href=&quot;/language/modern-chinese-4.html&quot;&gt;音位&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;词汇概说&lt;/li&gt;
   &lt;li&gt;词汇：词义&lt;/li&gt;
   &lt;li&gt;词汇：语义场&lt;/li&gt;
@@ -372,7 +399,7 @@
       &lt;li&gt;李如龙. 2007. &lt;strong&gt;汉语方言学.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：概说</title><link href="https://kesyau.github.io/linguistics/modern-chinese-1.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：概说" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/linguistics/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/linguistics/modern-chinese-1.html">&lt;p&gt;&lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：概说</title><link href="https://kesyau.github.io/language/modern-chinese-1.html" rel="alternate" type="text/html" title="『现代汉语』学习笔记：概说" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/language/modern-chinese-1</id><content type="html" xml:base="https://kesyau.github.io/language/modern-chinese-1.html">&lt;p&gt;&lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;p&gt;本文主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
 
@@ -462,7 +489,7 @@
 &lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/linguistics/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[1–6] &lt;a href=&quot;/language/modern-chinese-0.html&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;[7] 侯精一, 主编. 2002. &lt;strong&gt;现代汉语方言概要.&lt;/strong&gt; 上海教育出版社.&lt;/li&gt;
   &lt;li&gt;[8] 李如龙. 2007. &lt;strong&gt;汉语方言学.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">教材光盘链接</title><link href="https://kesyau.github.io/intra-bnu/cd.html" rel="alternate" type="text/html" title="教材光盘链接" /><published>2017-07-18T00:00:00+08:00</published><updated>2017-07-18T00:00:00+08:00</updated><id>https://kesyau.github.io/intra-bnu/cd</id><content type="html" xml:base="https://kesyau.github.io/intra-bnu/cd.html">&lt;h1 id=&quot;已上传&quot;&gt;已上传&lt;/h1&gt;
@@ -470,11 +497,8 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&quot;&gt;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;基础日语综合教程3（234 MB）&lt;/li&gt;
-  &lt;li&gt;基础日语听力教程2（460 MB）（即将删除）&lt;/li&gt;
   &lt;li&gt;基础日语听力教程3（457 MB）&lt;/li&gt;
-  &lt;li&gt;基础日语口语教程1（32 MB）（即将删除）&lt;/li&gt;
   &lt;li&gt;基础日语口语教程2（55 MB）&lt;/li&gt;
-  &lt;li&gt;大学俄语3（354 MB）&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;已删除&quot;&gt;已删除&lt;/h1&gt;
@@ -482,8 +506,11 @@
 &lt;ul&gt;
   &lt;li&gt;基础日语综合教程1（147 MB）&lt;/li&gt;
   &lt;li&gt;基础日语综合教程2（156 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语听力教程2（460 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语口语教程1（32 MB）&lt;/li&gt;
   &lt;li&gt;大学俄语1（232 MB）&lt;/li&gt;
   &lt;li&gt;大学俄语2（84 MB）&lt;/li&gt;
+  &lt;li&gt;大学俄语3（354 MB）&lt;/li&gt;
   &lt;li&gt;新标准大学英语综合教程2（155 MB）&lt;/li&gt;
   &lt;li&gt;全新版大学英语听说教程1（258 MB）&lt;/li&gt;
   &lt;li&gt;全新版大学英语听说教程2（196 MB）&lt;/li&gt;
