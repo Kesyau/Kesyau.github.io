@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-03-26T06:29:26-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">陰暦の月の異名（一部）</title><link href="https://kesyau.github.io/language/months" rel="alternate" type="text/html" title="陰暦の月の異名（一部）" /><published>2018-03-25T00:00:00-08:00</published><updated>2018-03-25T00:00:00-08:00</updated><id>https://kesyau.github.io/language/months</id><content type="html" xml:base="https://kesyau.github.io/language/months">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-03-26T08:23:48-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（ア行）</title><link href="https://kesyau.github.io/language/kanji" rel="alternate" type="text/html" title="常用漢字の音読み（ア行）" /><published>2018-03-27T00:00:00-08:00</published><updated>2018-03-27T00:00:00-08:00</updated><id>https://kesyau.github.io/language/kanji</id><content type="html" xml:base="https://kesyau.github.io/language/kanji">&lt;p&gt;ア行：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ア：亜（亞）&lt;/li&gt;
+  &lt;li&gt;アイ：哀、挨、愛、曖&lt;/li&gt;
+  &lt;li&gt;アク：悪（惡）&lt;sup&gt;1&lt;/sup&gt;、握&lt;/li&gt;
+  &lt;li&gt;アツ：圧（壓）&lt;/li&gt;
+  &lt;li&gt;アン：安、案、暗&lt;/li&gt;
+  &lt;li&gt;イ：以、衣、医（醫）、依&lt;sup&gt;1&lt;/sup&gt;、異、移、椅、意、易&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;イ（ヰ）：位、囲（圍）、委、威、為（爲）、畏、胃、尉、萎、偉、彙、違、維、慰、遺&lt;sup&gt;1&lt;/sup&gt;、緯&lt;/li&gt;
+  &lt;li&gt;イキ（ヰキ）：域&lt;/li&gt;
+  &lt;li&gt;イク：育&lt;/li&gt;
+  &lt;li&gt;イチ：一&lt;sup&gt;1&lt;/sup&gt;、壱（壹）&lt;/li&gt;
+  &lt;li&gt;イツ：一&lt;sup&gt;2&lt;/sup&gt;、逸&lt;/li&gt;
+  &lt;li&gt;イン：引、印、因、咽、姻、淫、陰、飲、隠、隱、音&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;イン（ヰン）：員、院、韻&lt;/li&gt;
+  &lt;li&gt;ウ：右&lt;sup&gt;1&lt;/sup&gt;、宇、羽、雨&lt;/li&gt;
+  &lt;li&gt;ウツ：鬱&lt;/li&gt;
+  &lt;li&gt;ウン：運、雲&lt;/li&gt;
+  &lt;li&gt;エ：依&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;エイ：永、泳、英、映、栄（榮）、営（營）、詠、影、鋭&lt;/li&gt;
+  &lt;li&gt;エイ（ヱイ）：衛（衞）&lt;/li&gt;
+  &lt;li&gt;エキ：易&lt;sup&gt;1&lt;/sup&gt;、疫&lt;sup&gt;1&lt;/sup&gt;、益&lt;sup&gt;1&lt;/sup&gt;、液、駅（驛）&lt;/li&gt;
+  &lt;li&gt;エツ：悦、謁、閲&lt;/li&gt;
+  &lt;li&gt;エツ（ヱツ）：越&lt;/li&gt;
+  &lt;li&gt;エン：延、沿、炎、宴、煙、鉛、塩（鹽）、演、縁（緣）、艶（艷）&lt;/li&gt;
+  &lt;li&gt;エン（ヱン）：円（圓）、怨&lt;sup&gt;1&lt;/sup&gt;、媛、援、園、猿、遠&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;オ（ヲ）：悪（惡）&lt;sup&gt;2&lt;/sup&gt;、汚&lt;/li&gt;
+  &lt;li&gt;オウ：応（應）、欧（歐）、殴（毆）、翁&lt;/li&gt;
+  &lt;li&gt;オウ（アウ）：央、桜（櫻）、奥&lt;/li&gt;
+  &lt;li&gt;オウ（アフ）：凹、押&lt;/li&gt;
+  &lt;li&gt;オウ（ワウ）：王、往、旺、横&lt;/li&gt;
+  &lt;li&gt;オク：億、憶、臆&lt;/li&gt;
+  &lt;li&gt;オク（ヲク）：屋&lt;/li&gt;
+  &lt;li&gt;オツ：乙&lt;/li&gt;
+  &lt;li&gt;オン：音&lt;sup&gt;1&lt;/sup&gt;、恩&lt;/li&gt;
+  &lt;li&gt;オン（ヲン）：怨&lt;sup&gt;2&lt;/sup&gt;、遠&lt;sup&gt;2&lt;/sup&gt;、温（溫）、穏（穩）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;その他：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ヤク：疫&lt;sup&gt;2&lt;/sup&gt;、益&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ユイ：遺&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ユウ：右&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">ア行：</summary></entry><entry><title type="html">陰暦の月の異名（一部）</title><link href="https://kesyau.github.io/language/months" rel="alternate" type="text/html" title="陰暦の月の異名（一部）" /><published>2018-03-25T00:00:00-08:00</published><updated>2018-03-25T00:00:00-08:00</updated><id>https://kesyau.github.io/language/months</id><content type="html" xml:base="https://kesyau.github.io/language/months">&lt;ul&gt;
   &lt;li&gt;一月：&lt;ruby&gt;正月&lt;rt&gt;しょう&lt;b&gt;が&lt;/b&gt;つ&lt;/rt&gt;&lt;/ruby&gt;、&lt;ruby&gt;睦月&lt;rt&gt;&lt;b&gt;む&lt;/b&gt;つき&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
   &lt;li&gt;二月：&lt;ruby&gt;如月&lt;rt&gt;きさらぎ&lt;/rt&gt;&lt;/ruby&gt;（&lt;ruby&gt;如月&lt;rt&gt;&lt;b&gt;じょ&lt;/b&gt;げつ&lt;/rt&gt;&lt;/ruby&gt;）&lt;/li&gt;
   &lt;li&gt;三月：&lt;ruby&gt;弥生&lt;rt&gt;やよい&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
