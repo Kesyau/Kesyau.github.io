@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-02T01:29:48-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji-0" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-04-05T00:00:00-08:00</published><updated>2018-04-05T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-0</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-0">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-04T08:52:49-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji-0" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-04-05T00:00:00-08:00</published><updated>2018-04-05T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-0</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-0">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-1&quot;&gt;ア行&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-2&quot;&gt;カ行&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">ア行 カ行</summary></entry><entry><title type="html">常用漢字の音読み：カ行</title><link href="https://kesyau.github.io/nihongo/kanji-2" rel="alternate" type="text/html" title="常用漢字の音読み：カ行" /><published>2018-03-28T00:00:00-08:00</published><updated>2018-03-28T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-2</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-2">&lt;p&gt;&lt;a href=&quot;/nihongo/kanji-0&quot;&gt;目次&lt;/a&gt;&lt;/p&gt;
+  &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-2&quot;&gt;カ行&lt;/a&gt;（未完）&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">ア行 カ行（未完） …</summary></entry><entry><title type="html">常用漢字の音読み：カ行</title><link href="https://kesyau.github.io/nihongo/kanji-2" rel="alternate" type="text/html" title="常用漢字の音読み：カ行" /><published>2018-03-28T00:00:00-08:00</published><updated>2018-03-28T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-2</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-2">&lt;p&gt;&lt;a href=&quot;/nihongo/kanji-0&quot;&gt;目次&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;カ行：&lt;/p&gt;
 
@@ -30,13 +31,20 @@
   &lt;li&gt;キツ：吉&lt;sup&gt;2&lt;/sup&gt;、喫、詰&lt;/li&gt;
   &lt;li&gt;キャ：脚&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;キャク：却、客&lt;sup&gt;1&lt;/sup&gt;、脚&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ギャク：&lt;/li&gt;
+  &lt;li&gt;ギャク：逆、虐&lt;/li&gt;
+  &lt;li&gt;キュウ：弓、宮&lt;sup&gt;1&lt;/sup&gt;、窮&lt;/li&gt;
+  &lt;li&gt;キュウ（キウ）：九&lt;sup&gt;1&lt;/sup&gt;、久&lt;sup&gt;1&lt;/sup&gt;、丘、旧（舊）、休、朽、臼、求、究、糾、救、球、嗅&lt;/li&gt;
+  &lt;li&gt;キュウ（キフ）：及、吸、泣、急、級、給&lt;/li&gt;
+  &lt;li&gt;ギュウ（ギウ）：牛&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;その他：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;エ（ヱ）：回&lt;sup&gt;2&lt;/sup&gt;、会（會）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ク：九&lt;sup&gt;2&lt;/sup&gt;、久&lt;sup&gt;2&lt;/sup&gt;、宮&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;グウ：宮&lt;sup&gt;3&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ケ：化&lt;sup&gt;2&lt;/sup&gt;、仮（假）&lt;sup&gt;2&lt;/sup&gt;、家&lt;sup&gt;2&lt;/sup&gt;、華&lt;sup&gt;2&lt;/sup&gt;、気（氣）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ゲ：下&lt;sup&gt;2&lt;/sup&gt;、夏&lt;sup&gt;2&lt;/sup&gt;、牙&lt;sup&gt;2&lt;/sup&gt;、解&lt;sup&gt;2&lt;/sup&gt;、外&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ケン：間&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
@@ -98,7 +106,7 @@
   &lt;li&gt;ユウ：右&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">目次</summary></entry><entry><title type="html">陰暦の月の異名（一部）</title><link href="https://kesyau.github.io/nihongo/months" rel="alternate" type="text/html" title="陰暦の月の異名（一部）" /><published>2018-03-25T00:00:00-08:00</published><updated>2018-03-25T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/months</id><content type="html" xml:base="https://kesyau.github.io/nihongo/months">&lt;ul&gt;
+&lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">目次</summary></entry><entry><title type="html">陰暦の月の異名</title><link href="https://kesyau.github.io/nihongo/months" rel="alternate" type="text/html" title="陰暦の月の異名" /><published>2018-03-25T00:00:00-08:00</published><updated>2018-03-25T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/months</id><content type="html" xml:base="https://kesyau.github.io/nihongo/months">&lt;ul&gt;
   &lt;li&gt;一月：&lt;ruby&gt;正月&lt;rt&gt;しょう&lt;b&gt;が&lt;/b&gt;つ&lt;/rt&gt;&lt;/ruby&gt;、&lt;ruby&gt;睦月&lt;rt&gt;&lt;b&gt;む&lt;/b&gt;つき&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
   &lt;li&gt;二月：&lt;ruby&gt;如月&lt;rt&gt;きさらぎ&lt;/rt&gt;&lt;/ruby&gt;（&lt;ruby&gt;如月&lt;rt&gt;&lt;b&gt;じょ&lt;/b&gt;げつ&lt;/rt&gt;&lt;/ruby&gt;）&lt;/li&gt;
   &lt;li&gt;三月：&lt;ruby&gt;弥生&lt;rt&gt;やよい&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
