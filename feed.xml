@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-22T05:28:30-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji-0" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-04-05T00:00:00-08:00</published><updated>2018-04-05T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-0</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-0">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-26T06:57:47-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji-0" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-04-05T00:00:00-08:00</published><updated>2018-04-05T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-0</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-0">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-1&quot;&gt;ア行&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-2&quot;&gt;カ行&lt;/a&gt;（未完）&lt;/li&gt;
   &lt;li&gt;…&lt;/li&gt;
@@ -36,23 +36,37 @@
   &lt;li&gt;キュウ（キウ）：九&lt;sup&gt;1&lt;/sup&gt;、久&lt;sup&gt;1&lt;/sup&gt;、丘、旧（舊）、休、朽、臼、求、究、糾、救、球、嗅&lt;/li&gt;
   &lt;li&gt;キュウ（キフ）：及、吸、泣、急、級、給&lt;/li&gt;
   &lt;li&gt;ギュウ（ギウ）：牛&lt;/li&gt;
-  &lt;li&gt;…&lt;/li&gt;
+  &lt;li&gt;キョ：去&lt;sup&gt;1&lt;/sup&gt;、巨、居、拒、拠（據）、挙（擧）、虚（虛）、許、距&lt;/li&gt;
+  &lt;li&gt;ギョ：魚、御&lt;sup&gt;1&lt;/sup&gt;、漁&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;キョウ：凶、共、供&lt;sup&gt;1&lt;/sup&gt;、恐、恭、胸、教&lt;/li&gt;
+  &lt;li&gt;キョウ（キャウ）：狂、京&lt;sup&gt;1&lt;/sup&gt;、享、況、強&lt;sup&gt;1&lt;/sup&gt;、郷（鄕）&lt;sup&gt;1&lt;/sup&gt;、境&lt;sup&gt;1&lt;/sup&gt;、鏡、競&lt;sup&gt;1&lt;/sup&gt;、響、驚&lt;/li&gt;
+  &lt;li&gt;キョウ（ケウ）：叫、橋、矯&lt;/li&gt;
+  &lt;li&gt;キョウ（ケフ）：協、峡（峽）、挟（挾）、狭（狹）、脅&lt;/li&gt;
+  &lt;li&gt;ギョウ：凝&lt;/li&gt;
+  &lt;li&gt;ギョウ（ギャウ）：仰&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ギョウ（ゲウ）：暁（曉）&lt;/li&gt;
+  &lt;li&gt;ギョウ（ゲフ）：業&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;その他：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;エ（ヱ）：回&lt;sup&gt;2&lt;/sup&gt;、会（會）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ク：九&lt;sup&gt;2&lt;/sup&gt;、久&lt;sup&gt;2&lt;/sup&gt;、宮&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ク：九&lt;sup&gt;2&lt;/sup&gt;、久&lt;sup&gt;2&lt;/sup&gt;、宮&lt;sup&gt;2&lt;/sup&gt;、供&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;グウ：宮&lt;sup&gt;3&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ケ：化&lt;sup&gt;2&lt;/sup&gt;、仮（假）&lt;sup&gt;2&lt;/sup&gt;、家&lt;sup&gt;2&lt;/sup&gt;、華&lt;sup&gt;2&lt;/sup&gt;、気（氣）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ゲ：下&lt;sup&gt;2&lt;/sup&gt;、夏&lt;sup&gt;2&lt;/sup&gt;、牙&lt;sup&gt;2&lt;/sup&gt;、解&lt;sup&gt;2&lt;/sup&gt;、外&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ケイ：京&lt;sup&gt;2&lt;/sup&gt;、境&lt;sup&gt;2&lt;/sup&gt;、競&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ケン：間&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ゲン：眼&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゴ：期&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;コウ（カウ）：格&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;コ：去&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ゴ：期&lt;sup&gt;2&lt;/sup&gt;、御&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;コウ（カウ）：格&lt;sup&gt;2&lt;/sup&gt;、仰&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ゴウ（ガウ）：強&lt;sup&gt;2&lt;/sup&gt;、郷（鄕）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;ゴウ（ゴフ）：業&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;コツ：滑&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
   &lt;li&gt;ラク：楽（樂）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;リョウ：漁&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">目次</summary></entry><entry><title type="html">常用漢字の音読み：ア行</title><link href="https://kesyau.github.io/nihongo/kanji-1" rel="alternate" type="text/html" title="常用漢字の音読み：ア行" /><published>2018-03-27T00:00:00-08:00</published><updated>2018-03-27T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-1</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-1">&lt;p&gt;&lt;a href=&quot;/nihongo/kanji-0&quot;&gt;目次&lt;/a&gt;&lt;/p&gt;
