@@ -1,126 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-26T06:57:47-08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji-0" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-04-05T00:00:00-08:00</published><updated>2018-04-05T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-0</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-0">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-1&quot;&gt;ア行&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/nihongo/kanji-2&quot;&gt;カ行&lt;/a&gt;（未完）&lt;/li&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="https://kesyau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kesyau.github.io/" rel="alternate" type="text/html" /><updated>2018-07-30T00:11:05+08:00</updated><id>https://kesyau.github.io/</id><title type="html">Kesyau</title><subtitle>An amateur linguist and programmer</subtitle><author><name>WAU Kesyau</name></author><entry><title type="html">常用漢字の音読み（未完）</title><link href="https://kesyau.github.io/nihongo/kanji" rel="alternate" type="text/html" title="常用漢字の音読み（未完）" /><published>2018-03-27T00:00:00+08:00</published><updated>2018-03-27T00:00:00+08:00</updated><id>https://kesyau.github.io/nihongo/kanji</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji">&lt;ul&gt;
+  &lt;li&gt;&lt;a class=&quot;change-tab&quot; data-tab=&quot;a&quot;&gt;ア行&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;change-tab&quot; data-tab=&quot;ka&quot;&gt;カ行&lt;/a&gt;（未完）&lt;/li&gt;
   &lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">ア行 カ行（未完） …</summary></entry><entry><title type="html">常用漢字の音読み：カ行</title><link href="https://kesyau.github.io/nihongo/kanji-2" rel="alternate" type="text/html" title="常用漢字の音読み：カ行" /><published>2018-03-28T00:00:00-08:00</published><updated>2018-03-28T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-2</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-2">&lt;p&gt;&lt;a href=&quot;/nihongo/kanji-0&quot;&gt;目次&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;カ行：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;カ：下&lt;sup&gt;1&lt;/sup&gt;、加、可、仮（假）&lt;sup&gt;1&lt;/sup&gt;、何、佳、価（價）、河、苛、架、夏&lt;sup&gt;1&lt;/sup&gt;、家&lt;sup&gt;1&lt;/sup&gt;、荷、嫁、暇、歌、箇、稼&lt;/li&gt;
-  &lt;li&gt;カ（クワ）：化&lt;sup&gt;1&lt;/sup&gt;、火、花、果、科、華&lt;sup&gt;1&lt;/sup&gt;、菓、貨、渦、過、禍、靴、寡、課&lt;/li&gt;
-  &lt;li&gt;ガ：牙&lt;sup&gt;1&lt;/sup&gt;、我、芽、賀、雅、餓&lt;/li&gt;
-  &lt;li&gt;ガ（グワ）：瓦、画（畫）&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;カイ：介、戒、改、拐、海、界、皆、械、開、階、楷、解&lt;sup&gt;1&lt;/sup&gt;、諧、街&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;カイ（クワイ）：回&lt;sup&gt;1&lt;/sup&gt;、灰、会（會）&lt;sup&gt;1&lt;/sup&gt;、快、怪、悔、絵（繪）、塊、潰、壊（壞）、懐（懷）&lt;/li&gt;
-  &lt;li&gt;ガイ：劾、害、崖、涯、街&lt;sup&gt;1&lt;/sup&gt;、慨、蓋、該、概（槪）、骸&lt;/li&gt;
-  &lt;li&gt;ガイ（グワイ）：外&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;カク：各、角、革、格&lt;sup&gt;1&lt;/sup&gt;、核、殻（殼）、覚（覺）、較、隔、閣、確、嚇、客&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;カク（クワク）：画（畫）&lt;sup&gt;2&lt;/sup&gt;、拡（擴）、郭、獲、穫&lt;/li&gt;
-  &lt;li&gt;ガク：学（學）、岳（嶽）、楽（樂）&lt;sup&gt;1&lt;/sup&gt;、額、顎&lt;/li&gt;
-  &lt;li&gt;カツ：喝、渇（渴）、割、葛、褐、轄&lt;/li&gt;
-  &lt;li&gt;カツ（クワツ）：括、活、滑&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;カン：干、刊、甘、汗、肝、看、陥（陷）、乾、勘、寒、堪、敢、間&lt;sup&gt;1&lt;/sup&gt;、閑、幹、感、漢、監、憾、簡、韓、艦、鑑&lt;/li&gt;
-  &lt;li&gt;カン（クワン）：缶（罐）、完、官、冠、巻（卷）、患、貫、喚、換、棺、款、勧（勸）、寛（寬）、慣、管、関（關）、歓（歡）、緩、還、館、環、観（觀）&lt;/li&gt;
-  &lt;li&gt;ガン：含、岸、岩、眼&lt;sup&gt;1&lt;/sup&gt;、顔&lt;/li&gt;
-  &lt;li&gt;ガン（グワン）：丸、玩、頑、願&lt;/li&gt;
-  &lt;li&gt;キ：企、伎、危、机、気（氣）&lt;sup&gt;1&lt;/sup&gt;、岐、希、忌、汽、奇、祈、季、紀、軌、既、記、起、飢、鬼、帰（歸）、基、寄、規、亀（龜）、喜、幾、揮、期&lt;sup&gt;1&lt;/sup&gt;、棋、貴、棄、毀、旗、器、畿、輝、機、騎&lt;/li&gt;
-  &lt;li&gt;ギ：技、宜、偽（僞）、欺、義、疑、儀、戯（戲）、擬、犠（犧）、議&lt;/li&gt;
-  &lt;li&gt;キク：菊&lt;/li&gt;
-  &lt;li&gt;キチ：吉&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;キツ：吉&lt;sup&gt;2&lt;/sup&gt;、喫、詰&lt;/li&gt;
-  &lt;li&gt;キャ：脚&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;キャク：却、客&lt;sup&gt;1&lt;/sup&gt;、脚&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ギャク：逆、虐&lt;/li&gt;
-  &lt;li&gt;キュウ：弓、宮&lt;sup&gt;1&lt;/sup&gt;、窮&lt;/li&gt;
-  &lt;li&gt;キュウ（キウ）：九&lt;sup&gt;1&lt;/sup&gt;、久&lt;sup&gt;1&lt;/sup&gt;、丘、旧（舊）、休、朽、臼、求、究、糾、救、球、嗅&lt;/li&gt;
-  &lt;li&gt;キュウ（キフ）：及、吸、泣、急、級、給&lt;/li&gt;
-  &lt;li&gt;ギュウ（ギウ）：牛&lt;/li&gt;
-  &lt;li&gt;キョ：去&lt;sup&gt;1&lt;/sup&gt;、巨、居、拒、拠（據）、挙（擧）、虚（虛）、許、距&lt;/li&gt;
-  &lt;li&gt;ギョ：魚、御&lt;sup&gt;1&lt;/sup&gt;、漁&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;キョウ：凶、共、供&lt;sup&gt;1&lt;/sup&gt;、恐、恭、胸、教&lt;/li&gt;
-  &lt;li&gt;キョウ（キャウ）：狂、京&lt;sup&gt;1&lt;/sup&gt;、享、況、強&lt;sup&gt;1&lt;/sup&gt;、郷（鄕）&lt;sup&gt;1&lt;/sup&gt;、境&lt;sup&gt;1&lt;/sup&gt;、鏡、競&lt;sup&gt;1&lt;/sup&gt;、響、驚&lt;/li&gt;
-  &lt;li&gt;キョウ（ケウ）：叫、橋、矯&lt;/li&gt;
-  &lt;li&gt;キョウ（ケフ）：協、峡（峽）、挟（挾）、狭（狹）、脅&lt;/li&gt;
-  &lt;li&gt;ギョウ：凝&lt;/li&gt;
-  &lt;li&gt;ギョウ（ギャウ）：仰&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ギョウ（ゲウ）：暁（曉）&lt;/li&gt;
-  &lt;li&gt;ギョウ（ゲフ）：業&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;その他：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;エ（ヱ）：回&lt;sup&gt;2&lt;/sup&gt;、会（會）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ク：九&lt;sup&gt;2&lt;/sup&gt;、久&lt;sup&gt;2&lt;/sup&gt;、宮&lt;sup&gt;2&lt;/sup&gt;、供&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;グウ：宮&lt;sup&gt;3&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ケ：化&lt;sup&gt;2&lt;/sup&gt;、仮（假）&lt;sup&gt;2&lt;/sup&gt;、家&lt;sup&gt;2&lt;/sup&gt;、華&lt;sup&gt;2&lt;/sup&gt;、気（氣）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゲ：下&lt;sup&gt;2&lt;/sup&gt;、夏&lt;sup&gt;2&lt;/sup&gt;、牙&lt;sup&gt;2&lt;/sup&gt;、解&lt;sup&gt;2&lt;/sup&gt;、外&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ケイ：京&lt;sup&gt;2&lt;/sup&gt;、境&lt;sup&gt;2&lt;/sup&gt;、競&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ケン：間&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゲン：眼&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;コ：去&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゴ：期&lt;sup&gt;2&lt;/sup&gt;、御&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;コウ（カウ）：格&lt;sup&gt;2&lt;/sup&gt;、仰&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゴウ（ガウ）：強&lt;sup&gt;2&lt;/sup&gt;、郷（鄕）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ゴウ（ゴフ）：業&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;コツ：滑&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ラク：楽（樂）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;リョウ：漁&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">目次</summary></entry><entry><title type="html">常用漢字の音読み：ア行</title><link href="https://kesyau.github.io/nihongo/kanji-1" rel="alternate" type="text/html" title="常用漢字の音読み：ア行" /><published>2018-03-27T00:00:00-08:00</published><updated>2018-03-27T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/kanji-1</id><content type="html" xml:base="https://kesyau.github.io/nihongo/kanji-1">&lt;p&gt;&lt;a href=&quot;/nihongo/kanji-0&quot;&gt;目次&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;ア行：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ア：亜（亞）&lt;/li&gt;
-  &lt;li&gt;アイ：哀、挨、愛、曖&lt;/li&gt;
-  &lt;li&gt;アク：悪（惡）&lt;sup&gt;1&lt;/sup&gt;、握&lt;/li&gt;
-  &lt;li&gt;アツ：圧（壓）&lt;/li&gt;
-  &lt;li&gt;アン：安、案、暗&lt;/li&gt;
-  &lt;li&gt;イ：以、衣、医（醫）、依&lt;sup&gt;1&lt;/sup&gt;、異、移、椅、意、易&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;イ（ヰ）：位、囲（圍）、委、威、為（爲）、畏、胃、尉、萎、偉、彙、違、維、慰、遺&lt;sup&gt;1&lt;/sup&gt;、緯&lt;/li&gt;
-  &lt;li&gt;イキ（ヰキ）：域&lt;/li&gt;
-  &lt;li&gt;イク：育&lt;/li&gt;
-  &lt;li&gt;イチ：一&lt;sup&gt;1&lt;/sup&gt;、壱（壹）&lt;/li&gt;
-  &lt;li&gt;イツ：一&lt;sup&gt;2&lt;/sup&gt;、逸&lt;/li&gt;
-  &lt;li&gt;イン：引、印、因、咽、姻、淫、陰、飲、隠、隱、音&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;イン（ヰン）：員、院、韻&lt;/li&gt;
-  &lt;li&gt;ウ：右&lt;sup&gt;1&lt;/sup&gt;、宇、羽、雨&lt;/li&gt;
-  &lt;li&gt;ウツ：鬱&lt;/li&gt;
-  &lt;li&gt;ウン：運、雲&lt;/li&gt;
-  &lt;li&gt;エ：依&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;エ（ヱ）：回&lt;sup&gt;2&lt;/sup&gt;、会（會）&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;エイ：永、泳、英、映、栄（榮）、営（營）、詠、影、鋭&lt;/li&gt;
-  &lt;li&gt;エイ（ヱイ）：衛（衞）&lt;/li&gt;
-  &lt;li&gt;エキ：易&lt;sup&gt;1&lt;/sup&gt;、疫&lt;sup&gt;1&lt;/sup&gt;、益&lt;sup&gt;1&lt;/sup&gt;、液、駅（驛）&lt;/li&gt;
-  &lt;li&gt;エツ：悦、謁、閲&lt;/li&gt;
-  &lt;li&gt;エツ（ヱツ）：越&lt;/li&gt;
-  &lt;li&gt;エン：延、沿、炎、宴、煙、鉛、塩（鹽）、演、縁（緣）、艶（艷）&lt;/li&gt;
-  &lt;li&gt;エン（ヱン）：円（圓）、怨&lt;sup&gt;1&lt;/sup&gt;、媛、援、園、猿、遠&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;オ（ヲ）：悪（惡）&lt;sup&gt;2&lt;/sup&gt;、汚&lt;/li&gt;
-  &lt;li&gt;オウ：応（應）、欧（歐）、殴（毆）、翁&lt;/li&gt;
-  &lt;li&gt;オウ（アウ）：央、桜（櫻）、奥&lt;/li&gt;
-  &lt;li&gt;オウ（アフ）：凹、押&lt;/li&gt;
-  &lt;li&gt;オウ（ワウ）：王、往、旺、横&lt;/li&gt;
-  &lt;li&gt;オク：億、憶、臆&lt;/li&gt;
-  &lt;li&gt;オク（ヲク）：屋&lt;/li&gt;
-  &lt;li&gt;オツ：乙&lt;/li&gt;
-  &lt;li&gt;オン：音&lt;sup&gt;1&lt;/sup&gt;、恩&lt;/li&gt;
-  &lt;li&gt;オン（ヲン）：怨&lt;sup&gt;2&lt;/sup&gt;、遠&lt;sup&gt;2&lt;/sup&gt;、温（溫）、穏（穩）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;その他：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;カイ（クワイ）：回&lt;sup&gt;1&lt;/sup&gt;、会（會）&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ヤク：疫&lt;sup&gt;2&lt;/sup&gt;、益&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ユイ：遺&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;ユウ：右&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;（『常用漢字表』、『新明解国語辞典』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">目次</summary></entry><entry><title type="html">陰暦の月の異名</title><link href="https://kesyau.github.io/nihongo/months" rel="alternate" type="text/html" title="陰暦の月の異名" /><published>2018-03-25T00:00:00-08:00</published><updated>2018-03-25T00:00:00-08:00</updated><id>https://kesyau.github.io/nihongo/months</id><content type="html" xml:base="https://kesyau.github.io/nihongo/months">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">ア行 カ行（未完） …</summary></entry><entry><title type="html">陰暦の月の異名</title><link href="https://kesyau.github.io/nihongo/months" rel="alternate" type="text/html" title="陰暦の月の異名" /><published>2018-03-25T00:00:00+08:00</published><updated>2018-03-25T00:00:00+08:00</updated><id>https://kesyau.github.io/nihongo/months</id><content type="html" xml:base="https://kesyau.github.io/nihongo/months">&lt;ul&gt;
   &lt;li&gt;一月：&lt;ruby&gt;正月&lt;rt&gt;しょう&lt;b&gt;が&lt;/b&gt;つ&lt;/rt&gt;&lt;/ruby&gt;、&lt;ruby&gt;睦月&lt;rt&gt;&lt;b&gt;む&lt;/b&gt;つき&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
   &lt;li&gt;二月：&lt;ruby&gt;如月&lt;rt&gt;きさらぎ&lt;/rt&gt;&lt;/ruby&gt;（&lt;ruby&gt;如月&lt;rt&gt;&lt;b&gt;じょ&lt;/b&gt;げつ&lt;/rt&gt;&lt;/ruby&gt;）&lt;/li&gt;
   &lt;li&gt;三月：&lt;ruby&gt;弥生&lt;rt&gt;やよい&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
@@ -135,7 +17,7 @@
   &lt;li&gt;十二月：&lt;ruby&gt;師走&lt;rt&gt;しわす&lt;/rt&gt;&lt;/ruby&gt;（&lt;ruby&gt;師走&lt;rt&gt;しはす&lt;/rt&gt;&lt;/ruby&gt;）、&lt;ruby&gt;臘月&lt;rt&gt;&lt;b&gt;ろ&lt;/b&gt;うげつ&lt;/rt&gt;&lt;/ruby&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;（『角川類語新辞典』、『新明解国語辞典』、『スーパー大辞林』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">一月：正月しょうがつ、睦月むつき 二月：如月きさらぎ（如月じょげつ） 三月：弥生やよい 四月：卯月うづき 五月：五月さつき（早月さつき・皐月さつき） 六月：水無月みなづき 七月：文月ふみづき（文月ふづき） 八月：葉月はづき 九月：長月ながつき 十月：神無月かんなづき 十一月：霜月しもつき 十二月：師走しわす（師走しはす）、臘月ろうげつ</summary></entry><entry><title type="html">语言杂记（二）</title><link href="https://kesyau.github.io/languages/note-2" rel="alternate" type="text/html" title="语言杂记（二）" /><published>2018-02-26T00:00:00-08:00</published><updated>2018-02-26T00:00:00-08:00</updated><id>https://kesyau.github.io/languages/note-2</id><content type="html" xml:base="https://kesyau.github.io/languages/note-2">&lt;p&gt;《简明语言学史》&lt;small&gt;（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015 重印））&lt;/small&gt;第 12–13 页似乎漏印了希腊字母 Ϙ（koppa 或 qoppa）和腓尼基字母 𐤒（qoph）。&lt;/p&gt;
+&lt;p&gt;（『角川類語新辞典』、『新明解国語辞典』、『スーパー大辞林』より）&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">一月：正月しょうがつ、睦月むつき 二月：如月きさらぎ（如月じょげつ） 三月：弥生やよい 四月：卯月うづき 五月：五月さつき（早月さつき・皐月さつき） 六月：水無月みなづき 七月：文月ふみづき（文月ふづき） 八月：葉月はづき 九月：長月ながつき 十月：神無月かんなづき 十一月：霜月しもつき 十二月：師走しわす（師走しはす）、臘月ろうげつ</summary></entry><entry><title type="html">语言杂记（二）</title><link href="https://kesyau.github.io/languages/note-2" rel="alternate" type="text/html" title="语言杂记（二）" /><published>2018-02-26T00:00:00+08:00</published><updated>2018-02-26T00:00:00+08:00</updated><id>https://kesyau.github.io/languages/note-2</id><content type="html" xml:base="https://kesyau.github.io/languages/note-2">&lt;p&gt;《简明语言学史》&lt;small&gt;（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015 重印））&lt;/small&gt;第 12–13 页似乎漏印了希腊字母 Ϙ（koppa 或 qoppa）和腓尼基字母 𐤒（qoph）。&lt;/p&gt;
 
 &lt;p&gt;一些古希腊字母及其 Unicode 码位：&lt;/p&gt;
 
@@ -162,345 +44,21 @@
       &lt;li&gt;Ϟ &lt;small&gt;03DE&lt;/small&gt;, ϟ &lt;small&gt;03DF&lt;/small&gt;: 数字 90&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《简明语言学史》（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015 重印））第 12–13 页似乎漏印了希腊字母 Ϙ（koppa 或 qoppa）和腓尼基字母 𐤒（qoph）。</summary></entry><entry><title type="html">语言杂记（一）</title><link href="https://kesyau.github.io/languages/note-1" rel="alternate" type="text/html" title="语言杂记（一）" /><published>2018-02-01T00:00:00-08:00</published><updated>2018-02-01T00:00:00-08:00</updated><id>https://kesyau.github.io/languages/note-1</id><content type="html" xml:base="https://kesyau.github.io/languages/note-1">&lt;p&gt;《英语诗歌常识与名作研读》&lt;small&gt;（景晓莺、王丹斌主编，上海交通大学出版社，2011）&lt;/small&gt;第22页讲到休斯《疲惫的蓝调》（&lt;em&gt;The Weary Blues&lt;/em&gt;）时说：&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《简明语言学史》（R. H. 罗宾斯著，许德宝、胡明亮、冯建明译，中国社会科学出版社，1997（2015 重印））第 12–13 页似乎漏印了希腊字母 Ϙ（koppa 或 qoppa）和腓尼基字母 𐤒（qoph）。</summary></entry><entry><title type="html">语言杂记（一）</title><link href="https://kesyau.github.io/languages/note-1" rel="alternate" type="text/html" title="语言杂记（一）" /><published>2018-02-01T00:00:00+08:00</published><updated>2018-02-01T00:00:00+08:00</updated><id>https://kesyau.github.io/languages/note-1</id><content type="html" xml:base="https://kesyau.github.io/languages/note-1">&lt;p&gt;《英语诗歌常识与名作研读》&lt;small&gt;（景晓莺、王丹斌主编，上海交通大学出版社，2011）&lt;/small&gt;第22页讲到休斯《疲惫的蓝调》（&lt;em&gt;The Weary Blues&lt;/em&gt;）时说：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;诗中我们也可以看到黑人文化中丰富的音乐传统和黑人英语的特点，比如 Ain’t got nobody in all this world，ain’t 为教育程度不高的人的用语，相当于 am (is, are) not 或 have (has) not，但是在黑人英语中，ain’t 似乎并没有否定的意思，所以这句等于 I have got nobody in all this world。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;结论固然正确，「ain’t 似乎并没有否定的意思」却令人费解。这实为人类语言中广泛存在的一个现象：否定助词加否定代词仍表否定。黑人英语是其中一例。&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《英语诗歌常识与名作研读》（景晓莺、王丹斌主编，上海交通大学出版社，2011）第22页讲到休斯《疲惫的蓝调》（The Weary Blues）时说：</summary></entry><entry><title type="html">『现代汉语』学习笔记：语音概说</title><link href="https://kesyau.github.io/han/modern-chinese-2" rel="alternate" type="text/html" title="『现代汉语』学习笔记：语音概说" /><published>2017-12-02T00:00:00-08:00</published><updated>2017-12-02T00:00:00-08:00</updated><id>https://kesyau.github.io/han/modern-chinese-2</id><content type="html" xml:base="https://kesyau.github.io/han/modern-chinese-2">&lt;p&gt;&lt;a href=&quot;/han/modern-chinese-0&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
-
-&lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;语音：人类说话的声音，语义的表达形式，语言的物质外壳
-    &lt;ul&gt;
-      &lt;li&gt;物理属性：音高、音强、音长、音色（音质）&lt;/li&gt;
-      &lt;li&gt;生理属性&lt;/li&gt;
-      &lt;li&gt;社会属性（本质属性）&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;语音单位
-    &lt;ul&gt;
-      &lt;li&gt;音素：最小的语音单位
-        &lt;ul&gt;
-          &lt;li&gt;辅音（子音）：气流经过口腔或咽头受阻碍而形成的音素
-            &lt;ul&gt;
-              &lt;li&gt;发音部位：发音时气流受到阻碍的位置
-                &lt;ul&gt;
-                  &lt;li&gt;双唇音：由上唇和下齿阻塞气流而形成&lt;/li&gt;
-                  &lt;li&gt;唇齿音：由上齿和下唇接近阻碍气流而形成&lt;/li&gt;
-                  &lt;li&gt;舌尖前音（平舌音）：由舌尖抵住或接近齿背阻碍气流而形成&lt;/li&gt;
-                  &lt;li&gt;舌尖中音：由舌尖抵住上齿龈阻碍气流而形成。&lt;/li&gt;
-                  &lt;li&gt;舌尖后音（卷舌音、翘舌音）：由舌尖卷起，抵住或接近硬腭前部阻碍气流而形成&lt;/li&gt;
-                  &lt;li&gt;舌面前音（舌面音）：由舌面前部抵住或接近硬腭前部阻碍气流而形成&lt;/li&gt;
-                  &lt;li&gt;舌面后音（舌根音）：由舌面后部抵住或接近软腭阻碍气流而形成&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;发音方法：发音时喉头、口腔和鼻腔节制气流的方式和状况
-                &lt;ul&gt;
-                  &lt;li&gt;阻碍的方式：塞音、擦音、塞擦音、鼻音、边音&lt;/li&gt;
-                  &lt;li&gt;声带是否振动：浊音（带音）、清音（不带音）&lt;/li&gt;
-                  &lt;li&gt;气流的强弱：送气音、不送气音&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;元音（母音）：气流振动声带发出声音，经过口腔、咽头不受阻碍而形成的音素
-            &lt;ul&gt;
-              &lt;li&gt;单元音：发音时口形（包括舌位、唇形、开口度）始终不变的元音
-                &lt;ul&gt;
-                  &lt;li&gt;舌面元音
-                    &lt;ul&gt;
-                      &lt;li&gt;舌位的高低：高元音（闭元音）、半高元音（半闭元音）、半低元音（半开元音）、低元音（开元音）&lt;/li&gt;
-                      &lt;li&gt;舌位的前后：前元音、央元音、后元音&lt;/li&gt;
-                      &lt;li&gt;唇形的圆展：圆唇元音、展唇元音（不圆唇元音、非圆唇元音）&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;舌尖元音：舌尖前元音、舌尖后元音&lt;/li&gt;
-                  &lt;li&gt;卷舌元音&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;复元音：发音时舌位、唇形都有变化的元音&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;音节：说话时自然感到的最小的语音单位&lt;/li&gt;
-      &lt;li&gt;音位：一个语音系统中能够区别意义的最小的语音单位&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/han/modern-chinese-0&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音位</title><link href="https://kesyau.github.io/han/modern-chinese-4" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音位" /><published>2017-12-01T00:00:00-08:00</published><updated>2017-12-01T00:00:00-08:00</updated><id>https://kesyau.github.io/han/modern-chinese-4</id><content type="html" xml:base="https://kesyau.github.io/han/modern-chinese-4">&lt;p&gt;&lt;a href=&quot;/han/modern-chinese-0&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
-
-&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法，见&lt;a href=&quot;/han/modern-chinese-3&quot;&gt;音节&lt;/a&gt;部分的说明。&lt;/p&gt;
-
-&lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;音素：按语音的物理属性和生理属性划分出来的最小语音单位&lt;/li&gt;
-  &lt;li&gt;音位：按语音的社会属性划分出来的最小的区别意义的语音单位
-    &lt;ul&gt;
-      &lt;li&gt;音质音位（音段音位）：辅音音位、元音音位&lt;/li&gt;
-      &lt;li&gt;非音质音位（超音段音位）：声调音位（调位）&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;音位变体： 一个音位包含的不同的音
-    &lt;ul&gt;
-      &lt;li&gt;条件变体：在一定条件下出现的音位变体&lt;/li&gt;
-      &lt;li&gt;自由变体：没有环境限制，可以自由替换而不影响意义的音位变体&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;归纳音位的标准：辨义功能、互补分布、音感差异&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;普通话元音音位&quot;&gt;普通话元音音位&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a
-    &lt;ul&gt;
-      &lt;li&gt;ɑ：u 或 ŋ 前&lt;/li&gt;
-      &lt;li&gt;ε：i 和 n 间&lt;/li&gt;
-      &lt;li&gt;æ：ü 和 n 间&lt;/li&gt;
-      &lt;li&gt;a&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;o
-    &lt;ul&gt;
-      &lt;li&gt;o&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;e
-    &lt;ul&gt;
-      &lt;li&gt;e：i 前&lt;/li&gt;
-      &lt;li&gt;ε：i 或 ü 后&lt;/li&gt;
-      &lt;li&gt;ǝ：n 前&lt;/li&gt;
-      &lt;li&gt;ʌ：ŋ 前&lt;/li&gt;
-      &lt;li&gt;ɤ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;i
-    &lt;ul&gt;
-      &lt;li&gt;ɿ：z 或 c 或 s 后&lt;/li&gt;
-      &lt;li&gt;ʅ：ẑ 或 ĉ 或 ŝ 或 r 后&lt;/li&gt;
-      &lt;li&gt;ɪ：作韵尾&lt;/li&gt;
-      &lt;li&gt;i&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;u
-    &lt;ul&gt;
-      &lt;li&gt;ʊ：作韵尾&lt;/li&gt;
-      &lt;li&gt;ʋ：零声母后（自由变体）；f 后&lt;/li&gt;
-      &lt;li&gt;u&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ü
-    &lt;ul&gt;
-      &lt;li&gt;y&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[6]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;普通话声调音位&quot;&gt;普通话声调音位&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;阴平
-    &lt;ul&gt;
-      &lt;li&gt;55&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;阳平
-    &lt;ul&gt;
-      &lt;li&gt;35&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;上声
-    &lt;ul&gt;
-      &lt;li&gt;21：非上声前&lt;/li&gt;
-      &lt;li&gt;35：上声前&lt;/li&gt;
-      &lt;li&gt;214&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;去声
-    &lt;ul&gt;
-      &lt;li&gt;53：去声前&lt;/li&gt;
-      &lt;li&gt;51&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/han/modern-chinese-0&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记：音节</title><link href="https://kesyau.github.io/han/modern-chinese-3" rel="alternate" type="text/html" title="『现代汉语』学习笔记：音节" /><published>2017-11-07T00:00:00-08:00</published><updated>2017-11-07T00:00:00-08:00</updated><id>https://kesyau.github.io/han/modern-chinese-3</id><content type="html" xml:base="https://kesyau.github.io/han/modern-chinese-3">&lt;p&gt;&lt;a href=&quot;/han/modern-chinese-0&quot;&gt;本系列文章&lt;/a&gt;系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
-
-&lt;h1 id=&quot;说明&quot;&gt;说明&lt;/h1&gt;
-
-&lt;p&gt;为便于记音，本系列文章采用一种修改自《汉语拼音方案》的音位标音法&lt;small&gt;（关于音位的详细讨论见后续笔记）&lt;/small&gt;。其原则是：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;音位归纳方案与《汉语拼音方案》相同。&lt;/li&gt;
-  &lt;li&gt;一个字母表示一个音位。&lt;/li&gt;
-  &lt;li&gt;尽量采用原有字母及方案中认可的简短形式。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;它与《汉语拼音方案》的区别如下：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;zh ch sh ng er 省作 ẑ ĉ ŝ ŋ ɚ。&lt;/li&gt;
-  &lt;li&gt;ü iou uei uen 不省作 u iu ui un。&lt;/li&gt;
-  &lt;li&gt;ao iao ong iong 作 au iau uŋ üŋ。&lt;/li&gt;
-  &lt;li&gt;e 不作 ê。&lt;/li&gt;
-  &lt;li&gt;i u ü 不作 y w yu 或 yi wu yu。&lt;/li&gt;
-  &lt;li&gt;zhi chi shi ri zi ci si 的韵母作 ï。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;关于 e ê 的音位分析，《现代汉语》&lt;sup&gt;[1, 3]&lt;/sup&gt;从分，《现代汉语》&lt;sup&gt;[5, 6]&lt;/sup&gt;从合，本文从合。&lt;/p&gt;
-
-&lt;p&gt;关于 i ɿ ʅ 的音位分析，《汉语拼音方案》未明确体现。《现代汉语》&lt;sup&gt;[1, 3]&lt;/sup&gt;从分，《现代汉语》&lt;sup&gt;[5, 6]&lt;/sup&gt;从合。本文折中，分析为两个音位。&lt;/p&gt;
-
-&lt;p&gt;关于 er 的音位分析较复杂，本文暂且视之为一个独立的音位 ɚ。&lt;/p&gt;
-
-&lt;p&gt;以上的「音位分析」均指根据《汉语拼音方案》分析，而非独立分析。&lt;/p&gt;
-
-&lt;h1 id=&quot;概念&quot;&gt;概念&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;音节：由音素构成的语音片段&lt;small&gt;（原书作「片断」）&lt;/small&gt;，听话时自然感到的最小的语音单位。&lt;/li&gt;
-  &lt;li&gt;声母：位于音节前段，主要由辅音构成。&lt;/li&gt;
-  &lt;li&gt;韵母：位于音节的后段，由元音或元音加辅音构成。&lt;/li&gt;
-  &lt;li&gt;声调：依附在声韵结构中具有区别意义作用的音高型式。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以上主要根据《现代汉语》&lt;sup&gt;[1]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;音节结构&quot;&gt;音节结构&lt;/h1&gt;
-
-&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;&lt;th rowspan=&quot;4&quot;&gt;例字&lt;/th&gt;&lt;th colspan=&quot;4&quot;&gt;声调&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;th rowspan=&quot;3&quot;&gt;声母&lt;/th&gt;&lt;th colspan=&quot;3&quot;&gt;韵母&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;th rowspan=&quot;2&quot;&gt;韵头（介音）&lt;/th&gt;&lt;th colspan=&quot;2&quot;&gt;韵（韵身、韵基）&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;th&gt;韵腹&lt;/th&gt;&lt;th&gt;韵尾&lt;/th&gt;&lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td&gt;鹅&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;藕&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;叶&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;歪&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;昂&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ŋ&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;远&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;笛&lt;/td&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;手&lt;/td&gt;&lt;td&gt;ŝ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;节&lt;/td&gt;&lt;td&gt;j&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;快&lt;/td&gt;&lt;td&gt;k&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;钢&lt;/td&gt;&lt;td&gt;g&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ŋ&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;宣&lt;/td&gt;&lt;td&gt;x&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;表中例字取自《现代汉语》&lt;sup&gt;[5: 90]&lt;/sup&gt;。&lt;/p&gt;
-
-&lt;h1 id=&quot;声母&quot;&gt;声母&lt;/h1&gt;
-
-&lt;p&gt;由于普通话的声母均为单个辅音，这里直接借用辅音分类的方法。&lt;/p&gt;
-
-&lt;table class=&quot;ui center aligned eight column very compact small celled structured table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;双唇音&lt;/th&gt;&lt;th&gt;唇齿音&lt;/th&gt;&lt;th&gt;舌尖前&lt;br /&gt;齿音&lt;/th&gt;&lt;th&gt;舌尖中&lt;br /&gt;齿龈音&lt;/th&gt;&lt;th&gt;舌尖后&lt;br /&gt;硬腭音&lt;/th&gt;&lt;th&gt;舌面前&lt;br /&gt;硬腭音&lt;/th&gt;&lt;th&gt;舌面后&lt;br /&gt;软腭音&lt;/th&gt;&lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td&gt;不送气&lt;br /&gt;清塞音&lt;/td&gt;&lt;td&gt;b&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;g&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;送气&lt;br /&gt;清塞音&lt;/td&gt;&lt;td&gt;p&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;t&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;k&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;不送气&lt;br /&gt;清塞擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;z&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ẑ&lt;/td&gt;&lt;td&gt;j&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;送气&lt;br /&gt;清塞擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;c&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ĉ&lt;/td&gt;&lt;td&gt;q&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;清擦音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;f&lt;/td&gt;&lt;td&gt;s&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ŝ&lt;/td&gt;&lt;td&gt;x&lt;/td&gt;&lt;td&gt;h&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;浊擦音&lt;br /&gt;通音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;r&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;鼻音&lt;/td&gt;&lt;td&gt;m&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;n&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;边音&lt;br /&gt;边通音&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;l&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;《现代汉语》&lt;sup&gt;[6: 47]&lt;/sup&gt;将 r 归为通音（近音），《现代汉语》&lt;sup&gt;[5: 55]&lt;/sup&gt;也作了相关讨论。&lt;/p&gt;
-
-&lt;p&gt;关于「零声母」：「韵母前面的空位，其作用相当于一个声母，叫作“零声母”，需要时可以用符号 ∅ 表示。在现代语言学里，表示空位的“零”，如零形态、零音节、零形冠词等，都是指在语流中不含任何语音材料，但为了在某种分析中保持系统上的均衡性或对称性而设定的抽象单位。」&lt;sup&gt;[5: 54]&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;韵母&quot;&gt;韵母&lt;/h1&gt;
-
-&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;开口呼&lt;/th&gt;&lt;th&gt;齐齿呼&lt;/th&gt;&lt;th&gt;合口呼&lt;/th&gt;&lt;th&gt;撮口呼&lt;/th&gt;&lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td rowspan=&quot;6&quot;&gt;无韵尾韵母&lt;br /&gt;开尾韵母&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;td&gt;ia&lt;/td&gt;&lt;td&gt;ua&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;o&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uo&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;e&lt;/td&gt;&lt;td&gt;ie&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;üe&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;ü&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;ï&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;ɚ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;元音韵尾韵母&lt;br /&gt;元音尾韵母&lt;/td&gt;&lt;td&gt;ai&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uai&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;ei&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uei&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;au&lt;/td&gt;&lt;td&gt;iau&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;ou&lt;/td&gt;&lt;td&gt;iou&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td rowspan=&quot;6&quot;&gt;鼻音韵尾韵母&lt;br /&gt;鼻音尾韵母&lt;/td&gt;&lt;td&gt;an&lt;/td&gt;&lt;td&gt;ian&lt;/td&gt;&lt;td&gt;uan&lt;/td&gt;&lt;td&gt;üan&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;en&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;uen&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;in&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ün&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;aŋ&lt;/td&gt;&lt;td&gt;iaŋ&lt;/td&gt;&lt;td&gt;uaŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;eŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;ueŋ&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;iŋ&lt;/td&gt;&lt;td&gt;uŋ&lt;/td&gt;&lt;td&gt;üŋ&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;本表没有严格依照四呼对应关系。一般将 i u ü 与 ï 对应，将 in ün 与 en uen 对应，将 iŋ 与 eŋ ueŋ 对应。uŋ üŋ 的情况则比较复杂。&lt;/p&gt;
-
-&lt;h1 id=&quot;声韵配合关系&quot;&gt;声韵配合关系&lt;/h1&gt;
-
-&lt;table class=&quot;ui center aligned five column very compact small celled structured table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;开口呼&lt;/th&gt;&lt;th&gt;齐齿呼&lt;/th&gt;&lt;th&gt;合口呼&lt;/th&gt;&lt;th&gt;撮口呼&lt;/th&gt;&lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td&gt;b p m&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;f&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;u&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;z c s&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;d t&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;n l&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;ẑ ĉ ŝ r&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;j q x&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;g k h&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;∅&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;参考&quot;&gt;参考&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[1–6] &lt;a href=&quot;/han/modern-chinese-0&quot;&gt;主要参考&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[7] 林焘, 王理嘉, 著; 王韫佳, 王理嘉, 增订. 2013. &lt;strong&gt;语音学教程（增订版）.&lt;/strong&gt; 北京大学出版社.&lt;/li&gt;
-  &lt;li&gt;[8] 朱晓农. 2010. &lt;strong&gt;语音学.&lt;/strong&gt; 商务印书馆.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">『现代汉语』学习笔记（未完）</title><link href="https://kesyau.github.io/han/modern-chinese-0" rel="alternate" type="text/html" title="『现代汉语』学习笔记（未完）" /><published>2017-10-22T00:00:00-08:00</published><updated>2017-10-22T00:00:00-08:00</updated><id>https://kesyau.github.io/han/modern-chinese-0</id><content type="html" xml:base="https://kesyau.github.io/han/modern-chinese-0">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
+&lt;p&gt;结论固然正确，「ain’t 似乎并没有否定的意思」却令人费解。这实为人类语言中广泛存在的一个现象：否定助词加否定代词仍表否定。黑人英语是其中一例。&lt;/p&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">《英语诗歌常识与名作研读》（景晓莺、王丹斌主编，上海交通大学出版社，2011）第22页讲到休斯《疲惫的蓝调》（The Weary Blues）时说：</summary></entry><entry><title type="html">『现代汉语』学习笔记（未完）</title><link href="https://kesyau.github.io/han/modern-chinese" rel="alternate" type="text/html" title="『现代汉语』学习笔记（未完）" /><published>2017-10-05T00:00:00+08:00</published><updated>2017-10-05T00:00:00+08:00</updated><id>https://kesyau.github.io/han/modern-chinese</id><content type="html" xml:base="https://kesyau.github.io/han/modern-chinese">&lt;p&gt;本系列文章系笔者学习『现代汉语』课程（参考多种教材&lt;sup&gt;[1–6]&lt;/sup&gt;）的笔记。略陈陋见，仅供参考。&lt;/p&gt;
 
 &lt;h1 id=&quot;目次&quot;&gt;目次&lt;/h1&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;/han/modern-chinese-1&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/han/modern-chinese-2&quot;&gt;语音概说&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;语音：&lt;a href=&quot;/han/modern-chinese-3&quot;&gt;音节&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;语音：&lt;a href=&quot;/han/modern-chinese-4&quot;&gt;音位&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;change-tab&quot; data-tab=&quot;intro&quot;&gt;概说&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;change-tab&quot; data-tab=&quot;phone&quot;&gt;语音概说&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a class=&quot;change-tab&quot; data-tab=&quot;syllable&quot;&gt;音节&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;语音：&lt;a class=&quot;change-tab&quot; data-tab=&quot;phoneme&quot;&gt;音位&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;词汇概说&lt;/li&gt;
   &lt;li&gt;词汇：词义&lt;/li&gt;
   &lt;li&gt;词汇：语义场&lt;/li&gt;
@@ -536,4 +94,32 @@
       &lt;li&gt;李如龙. 2007. &lt;strong&gt;汉语方言学.&lt;/strong&gt; 高等教育出版社.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">本系列文章系笔者学习『现代汉语』课程（参考多种教材[1–6]）的笔记。略陈陋见，仅供参考。</summary></entry><entry><title type="html">教材光盘链接</title><link href="https://kesyau.github.io/intra-bnu/cd" rel="alternate" type="text/html" title="教材光盘链接" /><published>2017-07-18T00:00:00+08:00</published><updated>2017-07-18T00:00:00+08:00</updated><id>https://kesyau.github.io/intra-bnu/cd</id><content type="html" xml:base="https://kesyau.github.io/intra-bnu/cd">&lt;p&gt;&lt;a href=&quot;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&quot;&gt;https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;已上传&quot;&gt;已上传&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;基础日语综合教程 4&lt;/li&gt;
+  &lt;li&gt;基础日语听力教程 4&lt;/li&gt;
+  &lt;li&gt;基础日语口语教程 2（55 MB）&lt;/li&gt;
+  &lt;li&gt;日本经典故事集萃（230 MB）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;已删除&quot;&gt;已删除&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;基础日语综合教程 1（147 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语综合教程 2（156 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语综合教程 3（234 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语听力教程 2（460 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语听力教程 3（457 MB）&lt;/li&gt;
+  &lt;li&gt;基础日语口语教程 1（32 MB）&lt;/li&gt;
+  &lt;li&gt;大学俄语 1（232 MB）&lt;/li&gt;
+  &lt;li&gt;大学俄语 2（84 MB）&lt;/li&gt;
+  &lt;li&gt;大学俄语 3（354 MB）&lt;/li&gt;
+  &lt;li&gt;新标准大学英语综合教程 2（155 MB）&lt;/li&gt;
+  &lt;li&gt;全新版大学英语听说教程 1（258 MB）&lt;/li&gt;
+  &lt;li&gt;全新版大学英语听说教程 2（196 MB）&lt;/li&gt;
+  &lt;li&gt;全新版大学英语听说教程 3（243 MB）&lt;/li&gt;
+  &lt;li&gt;全新版大学英语听说教程 4（224 MB）&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>WAU Kesyau</name></author><summary type="html">https://sdyp.bnu.edu.cn/shareFolder/228270003/7Jp7iVHZS</summary></entry></feed>
