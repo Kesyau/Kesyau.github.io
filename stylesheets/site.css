@@ -1,0 +1,126 @@
+*:lang(en) {
+  font-family: "Cormorant Garamond";
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  font-variant-numeric: oldstyle-nums; }
+
+*:lang(ja) {
+  font-family: "Source Han Serif JP";
+  -webkit-font-feature-settings: "palt";
+          font-feature-settings: "palt"; }
+
+*:lang(zh-Hans) {
+  font-family: "Source Han Serif CN"; }
+
+*:lang(grc) {
+  font-family: "Noto Serif"; }
+
+html {
+  color: #404040;
+  font-size: 4mm;
+  font-variant-numeric: lining-nums; }
+
+body {
+  max-width: 48rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1rem;
+  text-align: left; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1rem 0; }
+
+h1, h2, h3 {
+  font-weight: bold; }
+  h1 small, h2 small, h3 small {
+    font-weight: normal;
+    display: block;
+    font-size: 1.2rem;
+    line-height: 1.5rem; }
+
+h5, h6 {
+  font-weight: normal; }
+
+h1, h2, h5 {
+  font-size: 1.5rem;
+  line-height: 2rem; }
+
+h3 {
+  font-size: 1.2rem;
+  line-height: 1.5rem; }
+
+h6 {
+  font-size: 1rem;
+  line-height: 1.2rem; }
+
+blockquote {
+  margin: 1rem 0 1rem 2.4rem; }
+
+p {
+  margin: 1rem 0;
+  font-size: 1.2rem; }
+  p:lang(en) {
+    line-height: 1.5rem; }
+  p:lang(ja) {
+    line-height: 2rem; }
+  p:lang(zh-Hans) {
+    line-height: 2rem; }
+  p small {
+    font-size: 1rem;
+    line-height: 1.2rem; }
+  p.right {
+    text-align: right; }
+  p.small {
+    font-size: 1rem;
+    line-height: 1.2rem; }
+
+a {
+  color: #4080bf;
+  text-decoration: none; }
+
+ul {
+  margin: 1rem 0;
+  padding-left: 2.4rem;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  list-style: none; }
+  ul.high {
+    line-height: 3rem; }
+
+li > ul {
+  margin: 0; }
+
+table {
+  margin: 1rem 0;
+  border-left: 2.4rem solid white;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  line-height: 1.2rem; }
+  table thead {
+    border-bottom: 1pt solid gray; }
+  table tbody tr {
+    border-bottom: 1pt solid #bfbfbf; }
+  table tbody tr:last-child {
+    border-bottom: 1pt solid gray; }
+  table.center {
+    text-align: center; }
+  table.fixed {
+    table-layout: fixed; }
+
+.hwid {
+  -webkit-font-feature-settings: "hwid";
+          font-feature-settings: "hwid"; }
+
+.halt {
+  -webkit-font-feature-settings: "halt";
+          font-feature-settings: "halt"; }
+
+.pwid {
+  -webkit-font-feature-settings: "pwid";
+          font-feature-settings: "pwid"; }
+
+.palt {
+  -webkit-font-feature-settings: "palt";
+          font-feature-settings: "palt"; }
