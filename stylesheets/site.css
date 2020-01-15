@@ -1,25 +1,7 @@
-*:lang(en) {
-  font-family: "Cormorant Garamond";
-  -webkit-hyphens: auto;
-      -ms-hyphens: auto;
-          hyphens: auto;
-  font-variant-numeric: oldstyle-nums; }
-
-*:lang(ja) {
-  font-family: "Source Han Serif JP";
-  -webkit-font-feature-settings: "palt";
-          font-feature-settings: "palt"; }
-
-*:lang(zh-Hans) {
-  font-family: "Source Han Serif CN"; }
-
-*:lang(grc) {
-  font-family: "Noto Serif"; }
-
 html {
   color: #404040;
   font-size: 4mm;
-  font-variant-numeric: lining-nums; }
+  font-family: "HanaMinA", "HanaMinB"; }
 
 body {
   max-width: 48rem;
@@ -35,9 +17,7 @@ h1, h2, h3 {
   font-weight: bold; }
   h1 small, h2 small, h3 small {
     font-weight: normal;
-    display: block;
-    font-size: 1.2rem;
-    line-height: 1.5rem; }
+    display: block; }
 
 h5, h6 {
   font-weight: normal; }
@@ -45,10 +25,16 @@ h5, h6 {
 h1, h2, h5 {
   font-size: 1.5rem;
   line-height: 2rem; }
+  h1 small, h2 small, h5 small {
+    font-size: 1.2rem;
+    line-height: 1.5rem; }
 
 h3 {
   font-size: 1.2rem;
   line-height: 1.5rem; }
+  h3 small {
+    font-size: 1rem;
+    line-height: 1.2rem; }
 
 h6 {
   font-size: 1rem;

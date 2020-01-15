@@ -1,4 +1,16 @@
 @font-face {
+  src: url("/fonts/HanaMinA.ttf");
+  font-family: "HanaMinA";
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: url("/fonts/HanaMinB.ttf");
+  font-family: "HanaMinB";
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   src: url("/fonts/CormorantGaramond-Regular.ttf");
   font-family: "Cormorant Garamond";
   font-weight: normal;

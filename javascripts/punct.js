@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-  var mid_puncts = "《》（）『』「」・";
+  var mid_puncts = "《》〈〉（）『』「」・";
   var end_puncts = "。，、：；";
   var lat_puncts = "“”‘’";
   var puncts = mid_puncts.concat(end_puncts).concat(lat_puncts);
