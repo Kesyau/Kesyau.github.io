@@ -7,7 +7,8 @@
 html {
   color: #404040;
   font-size: 4mm;
-  font-family: "HanaMinA", "HanaMinB"; }
+  font-family: "HanaMinA", "HanaMinB";
+  hanging-punctuation: allow-end; }
 
 body {
   max-width: 48rem;
@@ -19,54 +20,51 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 1rem 0; }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-weight: bold; }
-  h1 small, h2 small, h3 small {
+  h1 small, h2 small, h3 small, h4 small {
     font-weight: normal;
-    display: block; }
-
-h5, h6 {
-  font-weight: normal; }
-
-h1, h2, h5 {
-  font-size: 1.5rem;
-  line-height: 2rem; }
-  h1 small, h2 small, h5 small {
+    display: block;
     font-size: 1.2rem;
     line-height: 1.5rem; }
 
+h1 {
+  font-size: 2rem;
+  line-height: 3rem; }
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 2rem; }
+
 h3 {
   font-size: 1.2rem;
-  line-height: 1.5rem; }
-  h3 small {
-    font-size: 1rem;
-    line-height: 1.2rem; }
+  line-height: 2rem; }
 
-h6 {
-  font-size: 1rem;
-  line-height: 1.2rem; }
+h4 {
+  font-size: 1.2rem;
+  line-height: 2rem; }
 
 p {
-  margin: 1rem 0;
+  margin: 0;
   font-size: 1.2rem;
-  line-height: 1.5rem; }
+  line-height: 2rem;
+  text-indent: 2.4rem; }
   p small {
     font-size: 1rem;
-    line-height: 1.2rem; }
+    line-height: 1.5rem; }
   p.right {
     text-align: right; }
   p.small {
     font-size: 1rem;
-    line-height: 1.2rem; }
-  p.first {
-    text-indent: 2.4rem; }
+    line-height: 1.5rem; }
+  p.noindent {
+    text-indent: 0; }
 
 blockquote {
-  margin: 1rem 0 1rem 2rem;
+  margin: 0;
   font-size: 1rem;
-  line-height: 1.5rem; }
-  blockquote.first {
-    text-indent: 2rem; }
+  line-height: 1.5rem;
+  text-indent: 2rem; }
 
 a {
   color: #4080bf;
