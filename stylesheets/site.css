@@ -8,7 +8,7 @@ html {
   color: #404040;
   font-size: 4mm;
   font-family: "HanaMinA", "HanaMinB";
-  hanging-punctuation: allow-end; }
+  hanging-punctuation: last allow-end; }
 
 body {
   max-width: 48rem;
