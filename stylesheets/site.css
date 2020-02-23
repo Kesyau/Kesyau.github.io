@@ -4,6 +4,9 @@
       -ms-hyphens: auto;
           hyphens: auto; }
 
+*:lang(zh) {
+  font-family: "HanaMinA", "HanaMinB"; }
+
 html {
   color: #404040;
   font-size: 4mm;
@@ -71,22 +74,19 @@ a {
   text-decoration: none; }
 
 ol {
-  margin: 1rem 0;
+  margin: 0;
   padding-left: 2rem;
   font-size: 1rem;
   line-height: 1.5rem; }
 
 ul {
-  margin: 1rem 0;
+  margin: 0;
   padding-left: 2rem;
   font-size: 1rem;
   line-height: 1.5rem;
   list-style: none; }
   ul.high {
     line-height: 3rem; }
-
-li > ul {
-  margin: 0; }
 
 table {
   margin: 1rem 0;
