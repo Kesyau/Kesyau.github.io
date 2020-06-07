@@ -7,6 +7,9 @@
 *:lang(zh) {
   font-family: "HanaMinA", "HanaMinB"; }
 
+*:lang(la) {
+  font-family: "FreeSerif"; }
+
 html {
   color: #404040;
   font-size: 4mm;

@@ -34,3 +34,9 @@
   font-weight: bold;
   font-style: italic;
 }
+@font-face {
+  src: url("/fonts/FreeSerif.ttf");
+  font-family: "FreeSerif";
+  font-weight: normal;
+  font-style: normal;
+}
