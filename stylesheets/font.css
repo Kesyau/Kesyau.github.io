@@ -40,3 +40,15 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  src: url("/fonts/gbsn00lp.ttf");
+  font-family: "AR PL GB";
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: url("/fonts/gkai00mp.ttf");
+  font-family: "AR PL GB";
+  font-weight: normal;
+  font-style: italic;
+}
