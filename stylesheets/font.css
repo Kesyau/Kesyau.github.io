@@ -1,54 +1,42 @@
 @font-face {
-  src: url("/fonts/HanaMinA.ttf");
+  src: url("/fonts/HanaMinA.ttf.woff");
   font-family: "HanaMinA";
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  src: url("/fonts/HanaMinB.ttf");
+  src: url("/fonts/HanaMinB.ttf.woff");
   font-family: "HanaMinB";
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  src: url("/fonts/CormorantGaramond-Regular.ttf");
+  src: url("/fonts/CormorantGaramond-Regular.ttf.woff");
   font-family: "Cormorant Garamond";
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  src: url("/fonts/CormorantGaramond-Bold.ttf");
+  src: url("/fonts/CormorantGaramond-Bold.ttf.woff");
   font-family: "Cormorant Garamond";
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  src: url("/fonts/CormorantGaramond-Italic.ttf");
+  src: url("/fonts/CormorantGaramond-Italic.ttf.woff");
   font-family: "Cormorant Garamond";
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
-  src: url("/fonts/CormorantGaramond-BoldItalic.ttf");
+  src: url("/fonts/CormorantGaramond-BoldItalic.ttf.woff");
   font-family: "Cormorant Garamond";
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
-  src: url("/fonts/FreeSerif.ttf");
+  src: url("/fonts/FreeSerif.ttf.woff");
   font-family: "FreeSerif";
   font-weight: normal;
   font-style: normal;
-}
-@font-face {
-  src: url("/fonts/gbsn00lp.ttf");
-  font-family: "AR PL GB";
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  src: url("/fonts/gkai00mp.ttf");
-  font-family: "AR PL GB";
-  font-weight: normal;
-  font-style: italic;
 }

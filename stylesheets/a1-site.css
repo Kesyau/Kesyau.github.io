@@ -1,0 +1,98 @@
+@charset "UTF-8";
+@font-face {
+  src: url("/fonts/GentiumPlus-R.ttf.woff");
+  font-family: 'GentiumPlus';
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  src: url("/fonts/GentiumPlus-I.ttf.woff");
+  font-family: 'GentiumPlus';
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  src: url("/fonts/GentiumPlus-TT-R.ttf.woff");
+  font-family: 'GentiumPlus';
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  src: url("/fonts/GentiumPlus-TT-I.ttf.woff");
+  font-family: 'GentiumPlus';
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  src: url("/fonts/HansS-9375.ttf.woff");
+  font-family: 'Hans';
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  src: url("/fonts/HansK.ttf.woff");
+  font-family: 'Hans';
+  font-weight: normal;
+  font-style: italic; }
+
+html {
+  color: black;
+  background-color: #fffff0;
+  font-size: 20px; }
+
+body {
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  text-align: left; }
+
+*:lang(zh-Hans) {
+  font-family: 'Hans'; }
+
+*:lang(en) {
+  font-family: 'GentiumPlus';
+  font-variant-numeric: lining-nums;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto; }
+
+span.box {
+  display: inline-block; }
+
+*:lang(zh) span.box:lang(en) {
+  vertical-align: 2px; }
+
+*:lang(en) i:lang(zh) {
+  vertical-align: -1px; }
+
+p, p span.box {
+  margin: 0; }
+  p:lang(zh), p span.box:lang(zh) {
+    font-size: 20px;
+    line-height: 32px; }
+  p:lang(en), p span.box:lang(en) {
+    font-size: 16px;
+    line-height: 24px; }
+
+b:lang(zh), strong:lang(zh) {
+  font-weight: inherit;
+  -webkit-text-decoration-line: underline overline;
+          text-decoration-line: underline overline;
+  -webkit-text-decoration-color: gray;
+          text-decoration-color: gray;
+  text-underline-offset: 2px; }
+
+hr {
+  border: none;
+  margin: 0;
+  height: 16px; }
+  hr.ast {
+    margin: 16px 0;
+    text-align: center; }
+    hr.ast::after {
+      content: '* * *'; }
+
+a {
+  color: #4080bf;
+  text-decoration: none; }
